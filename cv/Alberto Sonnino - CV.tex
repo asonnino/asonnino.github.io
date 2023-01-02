@@ -1,0 +1,166 @@
+\documentclass[a4paper,10pt]{article}
+
+% Packages
+\usepackage{marvosym}
+\usepackage{fontspec}
+\usepackage{xunicode,xltxtra,url,parskip}
+\RequirePackage{color,graphicx}
+\usepackage[usenames,dvipsnames]{xcolor}
+\usepackage[big]{layaureo}
+\usepackage{supertabular}
+\usepackage{titlesec}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage{booktabs}
+\definecolor{linkcolour}{rgb}{0,0.2,0.6}
+\hypersetup{colorlinks,breaklinks,urlcolor=linkcolour, linkcolor=linkcolour}
+
+% Macros
+\newcommand\sectiongap{\vskip 2.5ex}
+\newcommand\tablegap{1ex}
+
+% Fonts and Style
+\defaultfontfeatures{Ligatures=Tex}
+\titleformat{\section}{\Large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{3pt}{3pt}
+
+% Tweak margins
+\addtolength{\hoffset}{-1cm}
+\addtolength{\textwidth}{2cm}
+\addtolength{\voffset}{-.5cm}
+\addtolength{\textheight}{2cm}
+
+% Italian hyphenation for the word: ''corporations''
+\hyphenation{im-pre-se}
+
+% Watermark test
+\usepackage[absolute]{textpos}
+
+\setlength{\TPHorizModule}{30mm}
+\setlength{\TPVertModule}{\TPHorizModule}
+\textblockorigin{2mm}{0.65\paperheight}
+\setlength{\parindent}{0pt}
+
+%%%%%%%%%%%%%%%%%%%% BEGIN DOCUMENT %%%%%%%%%%%%%%%%%%%%
+\begin{document}
+\pagestyle{empty} % non-numbered pages
+
+\par{\centering
+  {\Huge Alberto \textsc{Sonnino}}\\
+  \vskip 0.1cm
+  \href{https://sonnino.com}{https://sonnino.com}
+  \vskip0.35truecm\par}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectiongap
+\section{Personal Data}
+\begin{tabular}{rl}
+  \textsc{Place of Birth:} & Brussels, Belgium                                      \\
+  \textsc{Address:}        & London, United Kingdom                                 \\
+  \textsc{Email:}          & \href{mailto:alberto@sonnino.com}{alberto@sonnino.com} \\
+  %\textsc{Website:} &  \href{https://sonnino.com}{https://sonnino.com}
+\end{tabular}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectiongap
+\section {Bio}
+I received my PhD from University College London (UCL), advised by George Danezis and Jens Groth. During my PhD, I co-founded \texttt{chainspace.io} that built a scalable smart contract platform. We were then acquired by Facebook (now named Meta) where I help design the Libra/Diem payment system. While at Meta, I also co-authored the FastPay payment system, the Narwhal DAG-based mempool, and the Bullshark consensus protocol. I am now at Mysten Labs to commercialize these projects, branded as \emph{Sui}.
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectiongap
+\section{Experiences}
+\begin{tabular}{rp{13cm}}
+  2022 -      & \textbf{Research Scientist}, Mysten Labs, London (United Kingdom)                      \\
+              & \footnotesize{Creating Foundational Infrastructure For Web3.0.}                        \\
+  \addlinespace[\tablegap]
+
+  2019 - 2022 & \textbf{Research Scientist}, Facebook, London (United Kingdom)                         \\
+              & \footnotesize{Blockchain and Cryptography team.}                                       \\
+  \addlinespace[\tablegap]
+
+  2018 - 2019 & \textbf{Co-Founder and Researcher}, Chainspace, Gibraltar                              \\
+              & \footnotesize{Building a scalable decentralised smart contacts platform.}              \\
+  \addlinespace[\tablegap]
+
+  2017 - 2020 & \textbf{Teaching Assistant}, University College London, London (United Kingdom)        \\
+              & \footnotesize{Introduction to Computer Science, Introduction to Security.}             \\
+  \addlinespace[\tablegap]
+
+  %2008 - 2017 & \textbf{Private Teacher}, London (United Kingdom).\\
+  %&\footnotesize{Mathematics, chemistry, physics, electricity/electronics, and computer science.} \\
+  %\addlinespace[\tablegap]
+
+  2016 - 2017 & \textbf{Internal Security}, Smals, Brussels (Belgium)                                  \\
+              & \footnotesize{National cybersecurity -- protection of social and health care data.}    \\
+  \addlinespace[\tablegap]
+
+  2013 - 2014 & \textbf{Coach and Trainer}, Catholic University of Louvain, Louvain-La-Neuve (Belgium) \\
+              & \footnotesize{University water-polo team.}                                             \\
+  \addlinespace[\tablegap]
+
+  %2008 - 2011 & \textbf{Water-Polo Player}, Royal Brussels Poseidon, Brussels (Belgium). \\
+  %&\footnotesize{Member of the water-polo team \textsc{Royal Brussels Poseidon}, 1\textsuperscript{st} National League.}
+\end{tabular}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectiongap
+\section{Education}
+\begin{tabular}{rp{13cm}}
+  2017 - 2020 & \textbf{University College London (UCL)}, London, United Kingdom.               \\
+              & \footnotesize{Ph.D, \textsc{distributed Systems and Applied Cryptography}.}     \\
+  \addlinespace[\tablegap]
+
+  2015 - 2016 & \textbf{University College London (UCL)}, London, United Kingdom.               \\
+              & \footnotesize{Master Degree, \textsc{Information Security}.}                    \\
+  \addlinespace[\tablegap]
+
+  2013 - 2015 & \textbf{Karlsruhe Institute of Technology (KIT)}, Karlsruhe, Germany.           \\
+              & \footnotesize{Master Degree, \textsc{Elektrotechnik und Informationstechnik}.}  \\
+  \addlinespace[\tablegap]
+
+  2013 - 2015 & \textbf{Catholic University of Louvain (UCLouvain)}, Louvain-La-Neuve, Belgium. \\
+              & \footnotesize{Master Degree, \textsc{Electrical Engineering}.}                  \\
+  \addlinespace[\tablegap]
+
+  2010 - 2013 & \textbf{Catholic University of Louvain (UCLouvain)}, Louvain-La-Neuve, Belgium. \\
+              & \footnotesize{Bachelor Degree, \textsc{Engineering}.}
+\end{tabular}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectiongap
+\section{Languages}
+\begin{tabular}{rlccrlccrl}
+  \textsc{French:}  & Native &  &  & \textsc{English:} & Fluent       &  &  & \textsc{Dutch:}   & Basic Knowledge \\
+  \textsc{Italian:} & Native &  &  & \textsc{German:}  & Intermediate &  &  & \textsc{Spanish:} & Basic Knowledge
+\end{tabular}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\vskip 0.5cm
+%\section{Computer Skills}
+%\begin{tabular}{rp{13cm}}
+%
+%Programming: & Java, Python, C, C++, Swift, SystemC, MicroC/OS, HTML/CSS, JavaScript, PHP, SQL, Verilog/SystemVerilog, VHDL, MIPS Assembly. \\
+%
+%Software: & Mathworks MATLAB, Wolfram Mathematica, Altera Quartus II, Xilinx ISE/Vivado,
+% Microchip MpLab, NI Labview, CadSoft Eagle,
+% \LaTeX, Microsoft Office, Apple iWork.\\
+%
+%OS:& MacOS, Windows 7/8/10, iOS, NIOS II, Linux/Unix Systems (desktop and server) \\
+%
+%\end{tabular}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\sectiongap
+\section{References}
+Available on demand.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}
