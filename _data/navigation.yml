@@ -1,0 +1,9 @@
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Tech Reports"
+    url: /reports/
+
+  - title: "CV"
+    url: /cv/Alberto%20Sonnino%20-%20CV.pdf

@@ -1,0 +1,300 @@
+[
+  {
+    "category": "thesis",
+    "title": "Performance Driven Optimizations in FPGA Based QAM Systems",
+    "authors": "Alberto Sonnino",
+    "date": 2015,
+    "filename": "kit-master.pdf"
+  },
+  {
+    "category": "thesis",
+    "title": "A Privacy Enhancing Architecture for Secure Wearable Devices",
+    "authors": "Alberto Sonnino",
+    "date": 2017,
+    "filename": "ucl-master.pdf"
+  },
+  {
+    "category": "thesis",
+    "title": "Scaling Distributed Ledgers and Privacy-Preserving Applications",
+    "authors": "Alberto Sonnino",
+    "date": 2020,
+    "filename": "ucl-phd.pdf"
+  },
+  {
+    "category": "libra",
+    "title": "The Libra Blockchain",
+    "authors": "Zachary Amsden, Ramnik Arora, Shehar Bano, Mathieu Baudet, Sam Blackshear, Abhay Bothra, George Cabrera, Christian Catalini, Konstantinos Chalkias, Evan Cheng, Avery Ching, Andrey Chursin, George Danezis, Gerardo Di Giacomo, David L. Dill, Hui Ding, Nick Doudchenko, Victor Gao, Zhenhuan Gao, François Garillot, Michael Gorven, Philip Hayes, J. Mark Hou, Yuxuan Hu, Kevin Hurley, Kevin Lewi, Chunqi Li, Zekun Li, Dahlia Malkhi, Sonia Margulis, Ben Maurer, Payman Mohassel, Ladi de Naurois, Valeria Nikolaenko, Todd Nowacki, Oleksandr Orlov, Dmitri Perelman, Alistair Pott, Brett Proctor, Shaz Qadeer, Rain, Dario Russi, Bryan Schwab, Stephane Sezer, Alberto Sonnino, Herman Venter, Lei Wei, Nils Wernerfelt, Brandon Williams, Qinfan Wu, Xifan Yan, Tim Zakian, Runtian Zhou",
+    "date": 2019,
+    "filename": "libra.pdf",
+    "code": "https://github.com/diem/diem"
+  },
+  {
+    "category": "libra",
+    "title": "State Machine Replication in the Libra Blockchain",
+    "authors": "Mathieu Baudet, Avery Ching, Andrey Chursin, George Danezis, François Garillot, Zekun Li, Dahlia Malkhi, Oded Naor, Dmitri Perelman, Alberto Sonnino",
+    "date": 2019,
+    "filename": "librabft.pdf"
+  },
+  {
+    "category": "libra",
+    "title": "Moving Toward Permissionless Consensus",
+    "authors": "Shehar Bano, Christian Catalini, George Danezis, Nick Doudchenko, Ben Maurer, Alberto Sonnino, Nils Wernerfelt",
+    "date": 2019,
+    "filename": "permissionless.pdf"
+  },
+  {
+    "category": "report",
+    "title": "Bullshark: The Partially Synchronous Version",
+    "authors": "Alexander Spiegelman, Neil Giridharan, Alberto Sonnino, Lefteris Kokoris-Kogias",
+    "date": 2022,
+    "filename": "bullshark-simple.pdf"
+  },
+  {
+    "category": "publication",
+    "title": "A Variable FPGA Based Generic QAM Transmitter with Scalable Mixed Time and Frequency Domain Signal Processing",
+    "authors": "Shalina Figuli, Alberto Sonnino, Peter Figuli, Jürgen Becker",
+    "venue": "IEEE International Conference on Telecommunications and Signal Processing (TSP)",
+    "date": 2016,
+    "filename": "qam-transmitter.pdf"
+  },
+  {
+    "category": "publication",
+    "title": "A Generic Reconfigurable Mixed Time and Frequency Domain QAM Transmitter with Forward Error Correction",
+    "authors": "Shalina Figuli, Peter Figuli, Alberto Sonnino, Jürgen Becker",
+    "venue": "International Journal of Advances in Telecommunications, Electrotechnics, Signals and Systems",
+    "date": 2017,
+    "filename": "generic-qam-transmitter.pdf"
+  },
+  {
+    "category": "report",
+    "title": "Airtnt: Fair Exchange Payment for Outsourced Secure Enclave Computations",
+    "authors": "Mustafa Al-Bassam, Alberto Sonnino, Michał Król, Ioannis Psaras",
+    "venue": "ArXiv preprint",
+    "date": 2018,
+    "filename": "airtnt.pdf"
+  },
+  {
+    "category": "publication",
+    "title": "Chainspace: A Sharded Smart Contracts Platform",
+    "authors": "Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezis",
+    "venue": "Network and Distributed System Security Symposium (NDSS)",
+    "date": 2018,
+    "filename": "chainspace.pdf",
+    "adoptions": ["Commercialized by Chainspace"]
+  },
+  {
+    "category": "publication",
+    "title": "AStERISK: Auction-based Shared Economy ResolutIon System for blocKchain",
+    "authors": "Alberto Sonnino, Michał Król, Argyrios Tasiopoulos, Ioannis Psaras",
+    "venue": "Workshop on Decentralized IoT Systems and Security (DISS)",
+    "date": 2019,
+    "filename": "asterisk.pdf"
+  },
+  {
+    "category": "publication",
+    "title": "Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers",
+    "authors": "Alberto Sonnino, Mustafa Al-Bassam, Shehar Bano, Sarah Meiklejohn, George Danezis",
+    "venue": "Network and Distributed System Security Symposium (NDSS)",
+    "date": 2019,
+    "filename": "coconut.pdf",
+    "adoptions": [
+      "Adopted by Nym",
+      "Adopted by Chainspace",
+      "Integrated into Cosmos SDK",
+      "Adopted by DECODE"
+    ]
+  },
+  {
+    "category": "report",
+    "title": "FMPC: Secure Multiparty Computation from Fourier Series and Parseval’s Identity",
+    "authors": "Alberto Sonnino",
+    "venue": "ArXiv Preprint",
+    "date": 2019,
+    "filename": "fmpc.pdf"
+  },
+  {
+    "category": "publication",
+    "title": "Location, location, location: Revisiting Modeling and Exploitation for Location-based Side Channel Leakages",
+    "authors": "Christos Andrikos, Lejla Batina, Lukasz Chmielewski, Liran Lerman, Vasilios, Mavroudis, Kostas Papagiannopoulos, Guilherme Perin, Giorgos Rassias, Alberto Sonnino",
+    "venue": "Asiacrypt",
+    "date": 2019,
+    "filename": "location.pdf"
+  },
+  {
+    "category": "publication",
+    "title": "Proof-of-Prestige: A Useful Work Reward System for Unverifiable Tasks",
+    "authors": "Michał Król, Alberto Sonnino, Mustafa Al-Bassam, Argyrios Tasiopoulos, Ioannis Psaras",
+    "venue": "IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+    "date": 2019,
+    "filename": "pop.pdf"
+  },
+  {
+    "category": "publication",
+    "title": "SoK: Consensus in the Age of Blockchains",
+    "authors": "Shehar Bano, Alberto Sonnino, Mustafa Al-Bassam, Sarah Azouvi, Patrick McCorry, Sarah Meiklejohn, George Danezis",
+    "venue": "ACM Conference on Advances in Financial Technologies (AFT)",
+    "date": 2019,
+    "filename": "sok-consensus.pdf"
+  },
+  {
+    "category": "report",
+    "title": "SybilQuorum: Open Distributed Ledgers Through Trust Networks",
+    "authors": "Alberto Sonnino, George Danezis",
+    "venue": "ArXiv Preprint",
+    "date": 2019,
+    "filename": "sybilquorum.pdf"
+  },
+  {
+    "category": "publication",
+    "title": "Replay Attacks and Defenses against Cross-shard Consensus in Sharded Distributed Ledgers",
+    "authors": "Alberto Sonnino, Shehar Bano, Mustafa Al-Bassam, George Danezis",
+    "venue": "IEEE European Symposium on Security and Privacy (EuroS&P)",
+    "date": 2020,
+    "filename": "byzcuit.pdf",
+    "adoptions": ["Adopted by Chainspace"]
+  },
+  {
+    "category": "publication",
+    "title": "FastPay: High-Performance Byzantine Fault Tolerant Settlement",
+    "authors": "Mathieu Baudet, George Danezis, Alberto Sonnino",
+    "venue": "ACM Conference on Advances in Financial Technologies (AFT)",
+    "date": 2020,
+    "filename": "fastpay.pdf",
+    "adoptions": ["Foundation of Sui", "Foundation of Linera"]
+  },
+  {
+    "category": "publication",
+    "title": "PASTRAMI: Privacy-preserving, Auditable, Scalable & Trust-worthy Auctions for Multiple Items",
+    "authors": "Michał Król, Alberto Sonnino, Argyrios G. Tasiopoulos, Ioannis Psaras, Etienne Rivi&egrave;re",
+    "venue": "ACM/IFIP Middleware",
+    "date": 2020,
+    "filename": "pastrami.pdf"
+  },
+  {
+    "category": "publication",
+    "title": "EL PASSO: Privacy-preserving, Asynchronous Single Sign-On",
+    "authors": "Zhiyi Zhang, Michał Król, Alberto Sonnino, Lixia Zhang, Etienne Rivi&egrave;re",
+    "venue": "International Symposium on Privacy Enhancing Technologies (PETs)",
+    "date": 2021,
+    "filename": "elpasso.pdf"
+  },
+  {
+    "category": "publication",
+    "title": "Fraud Proofs: Maximising Light Client Security and Scaling Blockchains with Dishonest Majorities",
+    "authors": "Mustafa Al-Bassam, Alberto Sonnino, Vitalik Buterin, Ismail Khoffi",
+    "venue": "Financial Cryptography and Data Security (FC)",
+    "date": 2021,
+    "filename": "fraudproofs.pdf",
+    "adoptions": ["Adopted by Ethereum 2.0", "Adopted by Celestia"]
+  },
+  {
+    "category": "publication",
+    "title": "Shard Scheduler: Object Placement and Migration in Sharded Account-Based Blockchains",
+    "authors": "Michał Król, Onur Ascigil, Sergi Rene, Alberto Sonnino, Mustafa Al-Bassam, Etienne Rivi&egrave;re",
+    "venue": "ACM Conference on Advances in Financial Technologies (AFT)",
+    "date": 2021,
+    "filename": "shard-scheduler.pdf"
+  },
+  {
+    "category": "publication",
+    "title": "(Brief Announcement) Twins: BFT Systems Made Robust",
+    "authors": "Shehar Bano, Alberto Sonnino, Andrey Chursin, Dmitri Perelman, Zekun Li, Avery Ching, Dahlia Malkhi",
+    "venue": "(Brief Announcement) International Symposium on Distributed Computing (DISC)",
+    "date": 2021,
+    "filename": "twins-ba.pdf"
+  },
+  {
+    "category": "publication",
+    "title": "Twins: BFT Systems Made Robust",
+    "authors": "Shehar Bano, Alberto Sonnino, Andrey Chursin, Dmitri Perelman, Zekun Li, Avery Ching, Dahlia Malkhi",
+    "venue": "International Conference on Principles of Distributed Systems (OPODIS)",
+    "date": 2021,
+    "filename": "twins.pdf",
+    "adoptions": ["Adopted by Diem", "Integrated into Aptos"]
+  },
+  {
+    "category": "publication",
+    "title": "Bullshark: DAG BFT Protocols Made Practical",
+    "authors": "Alexander Spiegelman, Neil Giridharan, Alberto Sonnino, Lefteris Kokoris-Kogias",
+    "venue": "Conference on Computer and Communications Security (CCS)",
+    "date": 2022,
+    "filename": "bullshark.pdf",
+    "adoptions": ["Commercialized by Sui"]
+  },
+  {
+    "category": "publication",
+    "title": "Jolteon and Ditto: Network-Adaptive Efficient Consensus with Asynchronous Fallback",
+    "authors": "Rati Gelashvili, Lefteris Kokoris-Kogias, Alberto Sonnino, Alexander Spiegelman, Zhuolun Xiang",
+    "venue": "Financial Cryptography and Data Security (FC)",
+    "date": 2022,
+    "filename": "jolteon-and-ditto.pdf",
+    "adoptions": ["Adopted by Diem", "Integrated into Aptos"]
+  },
+  {
+    "category": "publication",
+    "title": "Be Aware of Your Leaders",
+    "authors": "Shir Cohen, Rati Gelashvili, Lefteris Kokoris-Kogias, Zekun Li, Dahlia Malkhi, Alberto Sonnino, Alexander Spiegelman",
+    "venue": "Financial Cryptography and Data Security (FC)",
+    "date": 2022,
+    "filename": "carousel.pdf",
+    "adoptions": ["Adopted by Diem", "Integrated into Aptos"]
+  },
+  {
+    "category": "publication",
+    "title": "Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus",
+    "authors": "George Danezis, Lefteris Kokoris-Kogias, Alberto Sonnino, Alexander Spiegelman",
+    "venue": "European Conference on Computer Systems (EuroS&P)",
+    "date": 2022,
+    "filename": "narwhal-and-tusk.pdf",
+    "code": "https://github.com/asonnino/narwhal",
+    "awards": ["Best paper award"],
+    "adoptions": ["Commercialized by Sui"]
+  },
+  {
+    "category": "submission",
+    "title": "Proof of Availability &#38; Retrieval in a Modular Blockchain Architecture",
+    "authors": "Shir Cohen, Guy Goren, Lefteris Kokoris-Kogias, Alberto Sonnino, Alexander Spiegelman",
+    "venue": "IACR eprint 2022/455",
+    "date": 2022,
+    "filename": "proof-of-availability.pdf"
+  },
+  {
+    "category": "submission",
+    "title": "STROBE: Stake-based Threshold Random Beacons",
+    "authors": "Donald Beaver, Konstantinos Chalkias, Mahimna Kelkar, Lefteris Kokoris-Kogias, Kevin Lewi, Ladi de Naurois, Valeria Nikolaenko, Arnab Roy, Alberto Sonnino",
+    "venue": "IACR eprint 2021/1643",
+    "date": 2022,
+    "filename": "strobe.pdf"
+  },
+  {
+    "category": "submission",
+    "title": "Zef: Low-latency, Scalable, Private Payments",
+    "authors": "Mathieu Baudet, Alberto Sonnino, Mahimna Kelkar, George Danezis",
+    "venue": "ArXiv Preprint",
+    "date": 2022,
+    "filename": "zef.pdf"
+  },
+  {
+    "category": "report",
+    "title": "Low-latency, Scalable, DeFi with Zef",
+    "authors": "Mathieu Baudet, Alberto Sonnino, Michał Król",
+    "venue": "ArXiv Preprint",
+    "date": 2022,
+    "filename": "zef-extensions.pdf"
+  },
+  {
+    "category": "sui",
+    "title": "The Sui Smart Contract Platform (whitepaper v1)",
+    "authors": "The Mysten Labs team",
+    "date": 2022,
+    "filename": "sui-whitepaper.pdf"
+  },
+  {
+    "category": "publication",
+    "title": "Parakeet: Practical Key Transparency for End-to-End Encrypted Messaging",
+    "authors": "Harjasleen Malvai, Lefteris Kokoris-Kogias, Alberto Sonnino, Esha Ghosh, Ercan Oztürk, Kevin Lewi, Sean Lawlor",
+    "venue": "Network and Distributed System Security Symposium (NDSS)",
+    "date": 2023,
+    "filename": "parakeet.pdf"
+  }
+]
