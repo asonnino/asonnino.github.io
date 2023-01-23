@@ -251,11 +251,11 @@
     "adoptions": ["Commercialized by Sui"]
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Proof of Availability &#38; Retrieval in a Modular Blockchain Architecture",
     "authors": "Shir Cohen, Guy Goren, Lefteris Kokoris-Kogias, Alberto Sonnino, Alexander Spiegelman",
-    "venue": "IACR eprint 2022/455",
-    "date": 2022,
+    "venue": "Financial Cryptography and Data Security (FC)",
+    "date": 2023,
     "filename": "proof-of-availability.pdf"
   },
   {
