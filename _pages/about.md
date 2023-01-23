@@ -5,6 +5,7 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+  - /index.html
 ---
 
 I am a research scientist at [Mysten Labs](https://mystenlabs.com) working on the [Sui](https://sui.io) blockchain. I am also affiliated with the computer science department of [University College London (UCL)](https://www.ucl.ac.uk).
