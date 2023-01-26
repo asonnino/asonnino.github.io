@@ -1,7 +1,8 @@
 ---
 title: "Older Pictures"
-excerpt: "Some older pictures."
-permalink: /pictures.html
+permalink: /pictures/
+redirect_from:
+  - "/pictures.html"
 ---
 
 <div class="author__avatar">
