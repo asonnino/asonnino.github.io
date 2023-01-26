@@ -1,5 +1,5 @@
 ---
-title: "Older Pictures"
+title: "Old Pictures"
 permalink: /pictures/
 redirect_from:
   - "/pictures.html"
@@ -15,6 +15,6 @@ redirect_from:
 <a href="/images/Alberto Sonnino - 7.jpg"> <img src="/images/Alberto Sonnino - 7.jpg" alt="Alberto Sonnino"> </a>
 <!-- <a href="/images/Alberto Sonnino - 8.jpg"> <img src="/images/Alberto Sonnino - 8.jpg" alt="Alberto Sonnino"> </a> -->
 
-<a href="/images/Chainspace.png"> <img src="/images/Chainspace.png" alt="Chainspace"> </a>
+<!-- <a href="/images/Chainspace.png"> <img src="/images/Chainspace.png" alt="Chainspace"> </a> -->
 
 <div>
