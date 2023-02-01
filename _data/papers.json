@@ -296,7 +296,7 @@
     "venue": "Network and Distributed System Security Symposium (NDSS)",
     "date": 2023,
     "filename": "parakeet.pdf"
-  }
+  },
   {
     "category": "submission",
     "title": "Performance of EdDSA and BLS Signatures in Committee-Based Consensus",
