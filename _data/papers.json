@@ -297,4 +297,12 @@
     "date": 2023,
     "filename": "parakeet.pdf"
   }
+  {
+    "category": "submission",
+    "title": "Performance of EdDSA and BLS Signatures in Committee-Based Consensus",
+    "authors": "Zhuolun Li, Alberto Sonnino, Philipp Jovanovic",
+    "venue": "ArXiv Preprint",
+    "date": 2023,
+    "filename": "signatures-for-consensus.pdf"
+  }
 ]
