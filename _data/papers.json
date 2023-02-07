@@ -304,5 +304,13 @@
     "venue": "ArXiv Preprint",
     "date": 2023,
     "filename": "signatures-for-consensus.pdf"
+  },
+  {
+    "category": "submission",
+    "title": "Resilient Consensus Sustained Collaboratively",
+    "authors": "Junchao Chen, Suyash Gupta, Alberto Sonnino, Lefteris Kokoris-Kogias, Mohammad Sadoghi",
+    "venue": "ArXiv Preprint",
+    "date": 2023,
+    "filename": "poc.pdf"
   }
 ]
