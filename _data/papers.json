@@ -312,5 +312,13 @@
     "venue": "ArXiv Preprint",
     "date": 2023,
     "filename": "poc.pdf"
+  },
+  {
+    "category": "submission",
+    "title": "Subset-optimized BLS Multi-signature with Key Aggregation",
+    "authors": "Foteini Baldimtsi, Konstantinos Kryptos Chalkias, François Garillot, Jonas Lindstrøm, Ben Riva, Arnab Roy, Alberto Sonnino, Pun Waiwitlikhit, Joy Wang",
+    "venue": "IACR Preprint",
+    "date": 2023,
+    "filename": "smskr.pdf"
   }
 ]
