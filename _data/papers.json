@@ -295,7 +295,8 @@
     "authors": "Harjasleen Malvai, Lefteris Kokoris-Kogias, Alberto Sonnino, Esha Ghosh, Ercan Oztürk, Kevin Lewi, Sean Lawlor",
     "venue": "Network and Distributed System Security Symposium (NDSS)",
     "date": 2023,
-    "filename": "parakeet.pdf"
+    "filename": "parakeet.pdf",
+    "adoptions": ["Adapoted by WhatsApp"]
   },
   {
     "category": "submission",
