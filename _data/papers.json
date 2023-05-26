@@ -272,7 +272,8 @@
     "authors": "Mathieu Baudet, Alberto Sonnino, Mahimna Kelkar, George Danezis",
     "venue": "ArXiv Preprint",
     "date": 2022,
-    "filename": "zef.pdf"
+    "filename": "zef.pdf",
+    "adoptions": ["Foundation of Sui", "Foundation of Linera"]
   },
   {
     "category": "report",
