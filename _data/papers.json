@@ -300,7 +300,7 @@
     "adoptions": ["Adapoted by WhatsApp"]
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Performance of EdDSA and BLS Signatures in Committee-Based Consensus",
     "authors": "Zhuolun Li, Alberto Sonnino, Philipp Jovanovic",
     "venue": "Workshop on Advanced tools, programming languages, and PLatforms for Implementing and Evaluating algorithms for Distributed systems (ApPLIED)",
