@@ -262,8 +262,8 @@
     "category": "submission",
     "title": "STROBE: Stake-based Threshold Random Beacons",
     "authors": "Donald Beaver, Konstantinos Chalkias, Mahimna Kelkar, Lefteris Kokoris-Kogias, Kevin Lewi, Ladi de Naurois, Valeria Nikolaenko, Arnab Roy, Alberto Sonnino",
-    "venue": "IACR eprint 2021/1643",
-    "date": 2022,
+    "venue": "ACM Conference on Advances in Financial Technologies (AFT)",
+    "date": 2023,
     "filename": "strobe.pdf"
   },
   {
