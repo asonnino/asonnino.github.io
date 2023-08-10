@@ -69,7 +69,6 @@
     "category": "report",
     "title": "Airtnt: Fair Exchange Payment for Outsourced Secure Enclave Computations",
     "authors": "Mustafa Al-Bassam, Alberto Sonnino, Michał Król, Ioannis Psaras",
-    "venue": "ArXiv preprint",
     "date": 2018,
     "filename": "airtnt.pdf"
   },
@@ -108,7 +107,6 @@
     "category": "report",
     "title": "FMPC: Secure Multiparty Computation from Fourier Series and Parseval’s Identity",
     "authors": "Alberto Sonnino",
-    "venue": "ArXiv Preprint",
     "date": 2019,
     "filename": "fmpc.pdf"
   },
@@ -140,7 +138,6 @@
     "category": "report",
     "title": "SybilQuorum: Open Distributed Ledgers Through Trust Networks",
     "authors": "Alberto Sonnino, George Danezis",
-    "venue": "ArXiv Preprint",
     "date": 2019,
     "filename": "sybilquorum.pdf"
   },
@@ -279,7 +276,6 @@
     "category": "report",
     "title": "Low-latency, Scalable, DeFi with Zef",
     "authors": "Mathieu Baudet, Alberto Sonnino, Michał Król",
-    "venue": "ArXiv Preprint",
     "date": 2022,
     "filename": "zef-extensions.pdf"
   },
