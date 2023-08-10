@@ -259,7 +259,7 @@
     "filename": "proof-of-availability.pdf"
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "STROBE: Stake-based Threshold Random Beacons",
     "authors": "Donald Beaver, Konstantinos Chalkias, Mahimna Kelkar, Lefteris Kokoris-Kogias, Kevin Lewi, Ladi de Naurois, Valeria Nikolaenko, Arnab Roy, Alberto Sonnino",
     "venue": "ACM Conference on Advances in Financial Technologies (AFT)",
@@ -331,5 +331,13 @@
     "date": 2023,
     "filename": "sui-lutris.pdf",
     "adoptions": ["Commercialized by Sui"]
+  },
+  {
+    "category": "submission",
+    "title": "Sui Lutris: A Blockchain Combining Broadcast and Consensus",
+    "authors": "Nicolas Mohnblatt, Alberto Sonnino, Kobi Gurkan, Philipp Jovanovic",
+    "venue": "IACR Preprint",
+    "date": 2023,
+    "filename": "arke.pdf"
   }
 ]
