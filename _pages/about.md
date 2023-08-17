@@ -27,11 +27,11 @@ While at Meta I also co-authored the [FastPay](/papers/fastpay.pdf) consensus-le
 
 ##  Selected Publications
 
+{% assign sui-lutris = site.data.papers | where: "filename", "sui-lutris.pdf" | first %}
+{% include paper.html paper=sui-lutris %}
+
 {% assign bullshark = site.data.papers | where: "filename", "bullshark.pdf" | first %}
 {% include paper.html paper=bullshark %}
 
 {% assign narwhal_and_tusk = site.data.papers | where: "filename", "narwhal-and-tusk.pdf" | first %}
 {% include paper.html paper=narwhal_and_tusk %}
-
-{% assign fastpay = site.data.papers | where: "filename", "fastpay.pdf" | first %}
-{% include paper.html paper=fastpay %}
