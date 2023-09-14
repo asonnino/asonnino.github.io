@@ -207,7 +207,11 @@
     "venue": "International Conference on Principles of Distributed Systems (OPODIS)",
     "date": 2021,
     "filename": "twins.pdf",
-    "adoptions": ["Adopted by Diem", "Integrated into Aptos"]
+    "adoptions": [
+      "Adopted by Diem",
+      "Integrated into Aptos",
+      "Adopted by Chainlink"
+    ]
   },
   {
     "category": "publication",
