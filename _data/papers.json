@@ -346,7 +346,8 @@
     "authors": "Giorgos Tsimos, Anastasios Kichidis, Alberto Sonnino, Lefteris Kokoris-Kogias",
     "venue": "ArXiv Preprint",
     "date": 2023,
-    "filename": "hammerhead.pdf"
+    "filename": "hammerhead.pdf",
+    "adoptions": ["Adopted by Sui"]
   },
   {
     "category": "submission",
