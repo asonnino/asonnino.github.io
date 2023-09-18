@@ -271,8 +271,8 @@
     "category": "submission",
     "title": "Zef: Low-latency, Scalable, Private Payments",
     "authors": "Mathieu Baudet, Alberto Sonnino, Mahimna Kelkar, George Danezis",
-    "venue": "ArXiv Preprint",
-    "date": 2022,
+    "venue": "Workshop on Privacy in the Electronic Societ (WPES)",
+    "date": 2023,
     "filename": "zef.pdf",
     "adoptions": ["Foundation of Sui", "Foundation of Linera"]
   },
@@ -339,5 +339,21 @@
     "venue": "IACR Preprint",
     "date": 2023,
     "filename": "arke.pdf"
+  },
+  {
+    "category": "submission",
+    "title": "HammerHead: Leader Reputation for Dynamic Scheduling",
+    "authors": "Giorgos Tsimos, Anastasios Kichidis, Alberto Sonnino, Lefteris Kokoris-Kogias",
+    "venue": "ArXiv Preprint",
+    "date": 2023,
+    "filename": "hammerhead.pdf"
+  },
+  {
+    "category": "submission",
+    "title": "Cuttlefish: Expressive Fast Path Blockchains with FastUnlock",
+    "authors": "Lefteris Kokoris-Kogias, Alberto Sonnino, George Danezis",
+    "venue": "ArXiv Preprint",
+    "date": 2023,
+    "filename": "cuttlefish.pdf"
   }
 ]
