@@ -229,7 +229,12 @@
     "venue": "Financial Cryptography and Data Security (FC)",
     "date": 2022,
     "filename": "jolteon-and-ditto.pdf",
-    "adoptions": ["Adopted by Flow", "Adopted by Diem", "Integrated into Aptos"]
+    "adoptions": [
+      "Adopted by Flow",
+      "Adopted by Diem",
+      "Integrated into Aptos",
+      "Adopted by Monad"
+    ]
   },
   {
     "category": "publication",
