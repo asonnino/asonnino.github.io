@@ -361,5 +361,13 @@
     "venue": "ArXiv Preprint",
     "date": 2023,
     "filename": "cuttlefish.pdf"
+  },
+  {
+    "category": "submission",
+    "title": "Mysticeti: Low-Latency DAG Consensus with Fast Commit Path",
+    "authors": "Kushal Babel, Andrey Chursin, George Danezis, Lefteris Kokoris-Kogias, Alberto Sonnino",
+    "venue": "ArXiv Preprint",
+    "date": 2023,
+    "filename": "mysticeti.pdf"
   }
 ]
