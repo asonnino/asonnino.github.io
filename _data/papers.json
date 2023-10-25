@@ -207,11 +207,7 @@
     "venue": "International Conference on Principles of Distributed Systems (OPODIS)",
     "date": 2021,
     "filename": "twins.pdf",
-    "adoptions": [
-      "Adopted by Diem",
-      "Integrated into Aptos",
-      "Adopted by Chainlink"
-    ]
+    "adoptions": ["Adopted by Diem", "Adopted by Aptos", "Adopted by Chainlink"]
   },
   {
     "category": "publication",
@@ -232,7 +228,7 @@
     "adoptions": [
       "Adopted by Flow",
       "Adopted by Diem",
-      "Integrated into Aptos",
+      "Adopted by Aptos",
       "Adopted by Monad"
     ]
   },
@@ -243,7 +239,7 @@
     "venue": "Financial Cryptography and Data Security (FC)",
     "date": 2022,
     "filename": "carousel.pdf",
-    "adoptions": ["Adopted by Diem", "Integrated into Aptos"]
+    "adoptions": ["Adopted by Diem", "Adopted by Aptos"]
   },
   {
     "category": "publication",
