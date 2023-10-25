@@ -322,7 +322,8 @@
     "authors": "Foteini Baldimtsi, Konstantinos Kryptos Chalkias, François Garillot, Jonas Lindstrøm, Ben Riva, Arnab Roy, Alberto Sonnino, Pun Waiwitlikhit, Joy Wang",
     "venue": "IACR Preprint",
     "date": 2023,
-    "filename": "smskr.pdf"
+    "filename": "smskr.pdf",
+    "adoptions": ["Integrated into fastcrypto"]
   },
   {
     "category": "submission",
