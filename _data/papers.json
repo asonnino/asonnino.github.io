@@ -366,5 +366,13 @@
     "venue": "ArXiv Preprint",
     "date": 2023,
     "filename": "mysticeti.pdf"
+  },
+  {
+    "category": "submission",
+    "title": "DISC-NG: Robust Service Discovery in the Ethereum Global Network",
+    "authors": "Michał Król, Onur Ascigil, Sergi Rene, Alberto Sonnino, Matthieu Pigaglio, Ramin Sadre, Felix Lange, Etienne Rivière",
+    "venue": "ArXiv Preprint",
+    "date": 2023,
+    "filename": "disc-ng.pdf"
   }
 ]
