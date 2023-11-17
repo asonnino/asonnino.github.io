@@ -374,5 +374,13 @@
     "venue": "ArXiv Preprint",
     "date": 2023,
     "filename": "disc-ng.pdf"
+  },
+  {
+    "category": "submission",
+    "title": "Sloth: Key Stretching and Deniable Encryption using Secure Elements on Smartphones",
+    "authors": "Daniel Hugenroth, Alberto Sonnino, Sam Cutler, Alastair R. Beresford",
+    "venue": "IACR Preprint",
+    "date": 2023,
+    "filename": "sloth.pdf"
   }
 ]
