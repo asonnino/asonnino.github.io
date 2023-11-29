@@ -317,11 +317,11 @@
     "filename": "poc.pdf"
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Subset-optimized BLS Multi-signature with Key Aggregation",
     "authors": "Foteini Baldimtsi, Konstantinos Kryptos Chalkias, François Garillot, Jonas Lindstrøm, Ben Riva, Arnab Roy, Alberto Sonnino, Pun Waiwitlikhit, Joy Wang",
-    "venue": "IACR Preprint",
-    "date": 2023,
+    "venue": "Financial Cryptography and Data Security (FC)",
+    "date": 2024,
     "filename": "smskr.pdf",
     "adoptions": ["Integrated into fastcrypto"]
   },
