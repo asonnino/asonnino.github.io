@@ -216,7 +216,7 @@
     "venue": "Conference on Computer and Communications Security (CCS)",
     "date": 2022,
     "filename": "bullshark.pdf",
-    "adoptions": ["Commercialized by Sui"]
+    "adoptions": ["Commercialized by Sui", "Adopted by Aleo"]
   },
   {
     "category": "publication",
@@ -250,7 +250,11 @@
     "filename": "narwhal-and-tusk.pdf",
     "code": "https://github.com/asonnino/narwhal",
     "awards": ["Best paper award"],
-    "adoptions": ["Commercialized by Sui", "Adopted by Aptos"]
+    "adoptions": [
+      "Commercialized by Sui",
+      "Adopted by Aptos",
+      "Adopted by Aleo"
+    ]
   },
   {
     "category": "publication",
