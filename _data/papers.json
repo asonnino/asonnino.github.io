@@ -302,6 +302,7 @@
     "venue": "Network and Distributed System Security Symposium (NDSS)",
     "date": 2023,
     "filename": "parakeet.pdf",
+    "awards": ["IETF Applied Networking Research Prize (ANRP)"],
     "adoptions": ["Adapoted by WhatsApp"]
   },
   {
