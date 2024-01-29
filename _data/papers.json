@@ -387,5 +387,13 @@
     "venue": "IACR Preprint",
     "date": 2023,
     "filename": "sloth.pdf"
+  },
+  {
+    "category": "submission",
+    "title": "Pilotfish: Distributed Transaction Execution for Lazy Blockchains",
+    "authors": "Quentin Kniep, Lefteris Kokoris-Kogias, Alberto Sonnino, Igor Zablotchi, Nuda Zhang",
+    "venue": "ArXiv Preprint",
+    "date": 2024,
+    "filename": "pilotfish.pdf"
   }
 ]
