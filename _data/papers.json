@@ -402,6 +402,7 @@
     "authors": "Kostas Kryptos Chalkias, Jonas Lindstrøm, Deepak Maram, Ben Riva, Arnab Roy, Alberto Sonnino, Joy Wang",
     "venue": "ArXiv Preprint",
     "date": 2024,
-    "filename": "fasctrypto-benchmarks.pdf"
+    "filename": "fasctrypto-benchmarks.pdf",
+    "adoptions": ["Integrated into fastcrypto"]
   }
 ]
