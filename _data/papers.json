@@ -397,10 +397,10 @@
     "filename": "pilotfish.pdf"
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Fastcrypto: Pioneering Cryptography via Continuous Benchmarking",
     "authors": "Kostas Kryptos Chalkias, Jonas Lindstrøm, Deepak Maram, Ben Riva, Arnab Roy, Alberto Sonnino, Joy Wang",
-    "venue": "ArXiv Preprint",
+    "venue": "International Workshop on Load Testing and Benchmarking of Software Systems (LTB)",
     "date": 2024,
     "filename": "fasctrypto-benchmarks.pdf",
     "adoptions": ["Integrated into fastcrypto"]
