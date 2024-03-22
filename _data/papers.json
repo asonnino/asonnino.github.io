@@ -405,5 +405,13 @@
     "date": 2024,
     "filename": "fasctrypto-benchmarks.pdf",
     "adoptions": ["Integrated into fastcrypto"]
+  },
+  {
+    "category": "publication",
+    "title": "An Empirical Study of Consensus Protocols' DoS Resilience",
+    "authors": "Giacomo Giuliari, Alberto Sonnino, Marc Frei, Fabio Streun, Lefteris Kokoris-Kogias, Adrian Perrig",
+    "venue": "ACM ASIA Conference on Computer and Communications Security (AsiaCCS)",
+    "date": 2024,
+    "filename": "consensus-dos.pdf"
   }
 ]
