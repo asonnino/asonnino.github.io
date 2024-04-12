@@ -1,0 +1,67 @@
+{% include base_path %}
+{% assign talk = include.talk %}
+
+<h4 class="archive__item-title" itemprop="headline">
+  <b>{{ talk.event }}</b>
+</h4>
+
+<!-- {% if paper.category == "paper" %}
+<div class="small">
+  <a href="{{ base_path }}/papers/{{ paper.filename }}" rel="permalink">[pdf]
+  </a>
+  {% if paper.code %}
+  <a href="{{ paper.code }}" rel="permalink">[code]
+  </a>
+  {% endif %}
+  {% if paper.talk %}
+  <a href="{{ paper.talk }}" rel="permalink">[talk]
+  </a>
+  {% endif %}
+  {% if paper.slides %}
+  <a href="{{ paper.slides }}" rel="permalink">[slides]
+  </a>
+  {% endif %}
+  {% if paper.blogpost %}
+  <a href="{{ paper.blogpost }}" rel="permalink">[blog paper]
+  </a>
+  {% endif %}
+</div>
+{% endif %} -->
+
+{% if talk.location and talk.date %}
+<div class="archive__item-event">
+  {{ talk.location }}, {{ talk.date }}
+</div>
+{% elsif talk.location %}
+<div class="archive__item-event">
+    <b>{{ talk.location }}</b>
+</div>
+{% elsif talk.date %}
+<div class="archive__item-event">
+    <b>{{ talk.date }}</b>
+</div>
+{% endif %}
+
+{% if talk.title %}
+<div class="small">
+    <i>{{ talk.title }}</i>
+    <a href="{{ base_path }}/talks/{{ talk.slides }}" rel="permalink" target="_blank">
+        [slides]
+    </a>
+</div>
+{% endif %}
+
+{% if talk.hosts.size > 0  %}
+<div class="small">Hosted by {{ talk.hosts | join: ", " }}</div>
+{% endif %}
+
+{% if talk.papers.size > 0  %}
+<div class="small">
+    Related papers:
+    {% for paper in talk.papers %}
+    <a href="{{ base_path }}/papers/{{ paper }}" rel="permalink" target="_blank">
+        [{{ paper }}] 
+    </a>
+    {% endfor %}
+</div>
+{% endif %}

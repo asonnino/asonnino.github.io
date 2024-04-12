@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 {% if site.author.googlescholar %}
-You can also find my papers on [my Google Scholar profile]({{site.author.googlescholar}}).
+My papers are also available on [my Google Scholar profile]({{site.author.googlescholar}}).
 {% endif %}
 
 ### Under Submission
 
 {% assign submissions = site.data.papers | where: "category", "submission" %}
-{% assign sorted_submissions = submissions | sort: "name" %}
+{% assign sorted_submissions = submissions | sort: "title" %}
 {% for paper in sorted_submissions %}
 {% include paper.html paper=paper %}
 {% endfor %}

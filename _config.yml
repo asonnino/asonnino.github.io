@@ -80,7 +80,7 @@ analytics:
 author:
   name: *name
   avatar: "Alberto Sonnino - 1.jpg"
-  bio: "Research Scientist at Mysten Labs"
+  bio: "Research Scientist"
   location: "London, UK"
   links:
     - label: "alberto@mystenlabs.com"

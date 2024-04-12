@@ -139,8 +139,10 @@
     "category": "report",
     "title": "SybilQuorum: Open Distributed Ledgers Through Trust Networks",
     "authors": "Alberto Sonnino, George Danezis",
+    "venue": "Stanford Blockchain Conference (SBC)",
     "date": 2019,
-    "filename": "sybilquorum.pdf"
+    "filename": "sybilquorum.pdf",
+    "link": "https://cbr.stanford.edu/sbc19/"
   },
   {
     "category": "publication",
@@ -349,7 +351,7 @@
     "filename": "arke.pdf"
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "HammerHead: Leader Reputation for Dynamic Scheduling",
     "authors": "Giorgos Tsimos, Anastasios Kichidis, Alberto Sonnino, Lefteris Kokoris-Kogias",
     "venue": "IEEE International Conference on Distributed Computing Systems (ICDCS)",
@@ -358,12 +360,13 @@
     "adoptions": ["Adopted by Sui"]
   },
   {
-    "category": "submission",
+    "category": "report",
     "title": "Cuttlefish: Expressive Fast Path Blockchains with FastUnlock",
     "authors": "Lefteris Kokoris-Kogias, Alberto Sonnino, George Danezis",
-    "venue": "ArXiv Preprint",
-    "date": 2023,
-    "filename": "cuttlefish.pdf"
+    "venue": "Workshop on Principles and Practice of Consistency for Distributed Data",
+    "date": 2024,
+    "filename": "cuttlefish.pdf",
+    "linik": "https://papoc-workshop.github.io/2024/program.html"
   },
   {
     "category": "submission",

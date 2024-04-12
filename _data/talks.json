@@ -1,0 +1,207 @@
+[
+  {
+    "category": "misc",
+    "title": "Performance Driven Optimizations in FPGA Based QAM Systems",
+    "event": "KIT Master Defense",
+    "location": "Karlsruhe, Germany",
+    "date": 2015,
+    "hosts": ["Jürgen Becker"],
+    "slides": "kit-master-defense-v1.pdf",
+    "papers": [
+      "qam-transmitter.pdf",
+      "generic-qam-transmitter.pdf",
+      "kit-master.pdf"
+    ]
+  },
+  {
+    "category": "conference",
+    "title": "Performance Driven Optimizations in FPGA Based QAM Systems",
+    "event": "Pandora",
+    "location": "Athens, Greece",
+    "date": 2015,
+    "slides": "kit-master-defense-short-v1.pdf",
+    "papers": [
+      "qam-transmitter.pdf",
+      "generic-qam-transmitter.pdf",
+      "kit-master.pdf"
+    ]
+  },
+  {
+    "category": "misc",
+    "title": "A Privacy Enhancing Architecture for Secure Wearable Devices",
+    "event": "UCL Master Defense",
+    "location": "London, United Kingdom",
+    "date": 2016,
+    "hosts": ["Sarah Meiklejohn", "George Danezis"],
+    "slides": "ucl-master-defense-v1.pdf",
+    "papers": ["ucl-master.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers",
+    "event": "London Enterprise Tech Meetup (LNETM)",
+    "location": "London, United Kingdom",
+    "date": 2018,
+    "slides": "coconut-v1.pdf",
+    "papers": ["coconut.pdf"]
+  },
+  {
+    "category": "conference",
+    "title": "Chainspace: A Sharded Smart Contract Platform",
+    "event": "Network and Distributed System Security Symposium (NDSS)",
+    "location": "San Diego, USA",
+    "date": 2018,
+    "slides": "chainspace-v1.pdf",
+    "papers": ["chainspace.pdf"],
+    "link": "https://www.ndss-symposium.org/ndss2018/accepted-papers/"
+  },
+  {
+    "category": "conference",
+    "title": "Chainspace: A Sharded Smart Contract Platform",
+    "event": "UK Systems Workshop",
+    "location": "Northumberland, United Kingdom",
+    "date": 2018,
+    "slides": "chainspace-roadmap-v1.pdf",
+    "papers": ["chainspace.pdf"],
+    "link": "https://uksystems.org/workshop/2018/"
+  },
+  {
+    "category": "invited",
+    "title": "Characteristics of Blockchains and Compliance Challenges",
+    "event": "Grant Thornton | LendingBlock Event",
+    "location": "London, United Kingdom",
+    "date": 2018,
+    "slides": "zk-vulgarised-v1.pdf",
+    "hosts": ["Linda Wang"]
+  },
+  {
+    "category": "invited",
+    "title": "Replay Attacks and Defenses Against Cross-shard Consensus in Sharded Distributed Ledgers",
+    "event": "Large-Scale Consensus and Blockchains Workshop",
+    "location": "Berkeley, USA",
+    "date": 2019,
+    "slides": "byzcuit-v1.pdf",
+    "hosts": ["Dahlia Malkhi"],
+    "papers": ["byzcuit.pdf"],
+    "link": "https://simons.berkeley.edu/workshops/large-scale-consensus-blockchains/schedule"
+  },
+  {
+    "category": "invited",
+    "title": "Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers",
+    "event": "Facebook Introductions",
+    "location": "Menlo Park, USA",
+    "date": 2019,
+    "slides": "coconut-v2.pdf",
+    "hosts": [
+      "David Marcus",
+      "Evan Cheng",
+      "Jim Everingham",
+      "Ben Maurer",
+      "Kevin Weil"
+    ],
+    "papers": ["coconut.pdf"]
+  },
+  {
+    "category": "conference",
+    "title": "Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers",
+    "event": "Network and Distributed System Security Symposium (NDSS)",
+    "location": "San Diego, USA",
+    "date": 2019,
+    "slides": "coconut-v3.pdf",
+    "papers": ["coconut.pdf"],
+    "link": "https://www.ndss-symposium.org/ndss2019/accepted-papers/"
+  },
+  {
+    "category": "conference",
+    "title": "SybilQuorum: Open Distributed Ledgers through Trust Networks",
+    "event": "Stanford Blockchain Conference (SBC)",
+    "location": "Sanford, USA",
+    "date": 2019,
+    "slides": "sybilquorum-v1.pdf",
+    "papers": ["sybilquorum.pdf"],
+    "link": "https://cbr.stanford.edu/sbc19/"
+  },
+  {
+    "category": "invited",
+    "title": "Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers",
+    "event": "ZK London",
+    "location": "London, United Kingdom",
+    "date": 2019,
+    "slides": "coconut-vulgarised-v1.pdf",
+    "papers": ["coconut.pdf"],
+    "link": "https://cbr.stanford.edu/sbc19/"
+  },
+  {
+    "category": "conference",
+    "title": "FastPay: High-Performance Byzantine Fault Tolerant Settlement",
+    "event": "ACM Advances in Financial Technologies (AFT)",
+    "location": "Online",
+    "date": 2020,
+    "slides": "fastpay-v1.pdf",
+    "papers": ["fastpay.pdf"],
+    "link": "https://aftconf.github.io/aft20/program.html"
+  },
+  {
+    "category": "invited",
+    "title": "FastPay: High-Performance Byzantine Fault Tolerant Settlement",
+    "event": "Berkeley Research Seminar",
+    "location": "Berkeley, USA",
+    "date": 2020,
+    "slides": "fastpay-v1.pdf",
+    "hosts": ["Dahlia Malkhi"],
+    "papers": ["fastpay.pdf"]
+  },
+  {
+    "category": "conference",
+    "title": "Replay Attacks and Defenses Against Cross-shard Consensus in Sharded Distributed Ledgers",
+    "event": "European Symposium on Security and Privacy (EuroS&P)",
+    "location": "Online",
+    "date": 2020,
+    "slides": "byzcuit-v2.pdf",
+    "papers": ["byzcuit.pdf"],
+    "link": "https://www.ieee-security.org/TC/EuroSP2020/accepted.html"
+  },
+  {
+    "category": "invited",
+    "title": "Scaling Blockchains: Achieving Arbitrary Throughput and Sub-Second Latency",
+    "event": "Hydra",
+    "location": "Online",
+    "date": 2020,
+    "slides": "chainspace-byzcuit-fastpay-v1.pdf",
+    "papers": ["chainspace.pdf", "byzcuit.pdf", "fastpay.pdf"],
+    "link": "https://2020.hydraconf.com/2020/msk/schedule/"
+  },
+  {
+    "category": "misc",
+    "title": "Digital Identity with Anonymous Credentials",
+    "event": "Novi Research Presentation",
+    "location": "Online",
+    "date": 2020,
+    "slides": "elpasso-v1.pdf",
+    "papers": ["elpasso.pdf", "coconut.pdf"]
+  },
+  {
+    "category": "misc",
+    "title": "Scaling distributed ledgers and privacy-preserving applications",
+    "event": "PhD Defense",
+    "location": "Online",
+    "date": 2020,
+    "slides": "phd-defense-v1.pdf",
+    "papers": [
+      "chainspace.pdf",
+      "byzcuit.pdf",
+      "coconut.pdf",
+      "fastpay.pdf",
+      "ucl-phd.pdf"
+    ]
+  },
+  {
+    "category": "invited",
+    "title": "FastPay: High-Performance Byzantine Fault Tolerant Settlement",
+    "event": "Protocol Labs Research Seminar",
+    "location": "Online",
+    "date": 2020,
+    "slides": "fastpay-v2.pdf",
+    "papers": ["fastpay.pdf"]
+  }
+]

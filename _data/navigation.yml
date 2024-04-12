@@ -5,5 +5,8 @@ main:
   - title: "Tech Reports"
     url: /reports/
 
+  - title: "Talks"
+    url: /talks/
+
   - title: "CV"
     url: /cv/Alberto%20Sonnino%20-%20CV.pdf
