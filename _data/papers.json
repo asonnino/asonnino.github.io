@@ -352,8 +352,8 @@
     "category": "submission",
     "title": "HammerHead: Leader Reputation for Dynamic Scheduling",
     "authors": "Giorgos Tsimos, Anastasios Kichidis, Alberto Sonnino, Lefteris Kokoris-Kogias",
-    "venue": "ArXiv Preprint",
-    "date": 2023,
+    "venue": "IEEE International Conference on Distributed Computing Systems (ICDCS)",
+    "date": 2024,
     "filename": "hammerhead.pdf",
     "adoptions": ["Adopted by Sui"]
   },
