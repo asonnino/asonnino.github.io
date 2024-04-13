@@ -144,7 +144,7 @@
   {
     "category": "invited",
     "title": "FastPay: High-Performance Byzantine Fault Tolerant Settlement",
-    "event": "Berkeley Research Seminar",
+    "event": "Berkeley Seminar",
     "location": "Berkeley, USA",
     "date": 2020,
     "slides": "fastpay-v1.pdf",
@@ -198,10 +198,86 @@
   {
     "category": "invited",
     "title": "FastPay: High-Performance Byzantine Fault Tolerant Settlement",
-    "event": "Protocol Labs Research Seminar",
+    "event": "Protocol Labs Seminar",
     "location": "Online",
     "date": 2020,
+    "hosts": ["Marko Vukolić"],
     "slides": "fastpay-v2.pdf",
     "papers": ["fastpay.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "FastPay: High-Performance Byzantine Fault Tolerant Settlement",
+    "event": "City, University of London Seminar",
+    "location": "Online",
+    "date": 2021,
+    "hosts": ["Michał Król"],
+    "slides": "fastpay-v3.pdf",
+    "papers": ["fastpay.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "FastPay: High-Performance Byzantine Fault Tolerant Settlement",
+    "event": "University of Cambridge Seminar",
+    "location": "Online",
+    "date": 2021,
+    "hosts": ["Ross Anderson"],
+    "slides": "fastpay-v4.pdf",
+    "papers": ["fastpay.pdf"],
+    "link": "https://www.cl.cam.ac.uk/research/security/seminars/archive/all.html"
+  },
+  {
+    "category": "conference",
+    "title": "Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus",
+    "event": "ConsensusDays 21",
+    "location": "Online",
+    "date": 2021,
+    "slides": "narwhal-tusk-v1.pdf",
+    "papers": ["narwal-and-tusk.pdf"],
+    "link": "https://research.protocol.ai/sites/consensusday21/programme/"
+  },
+  {
+    "category": "misc",
+    "title": "Diem Discovery Service: How to Make Wallets Interoperable",
+    "event": "Diem Production Day",
+    "location": "Online",
+    "date": 2021,
+    "slides": "diem-discovery-service-v1.pdf"
+  },
+  {
+    "category": "misc",
+    "title": "Increasing Throughput with Sharded Blockchains",
+    "event": "Novi Blockchain Study Hall",
+    "location": "Online",
+    "date": 2021,
+    "slides": "byzcuit-v3.pdf",
+    "papers": ["byzcuit.pdf"]
+  },
+  {
+    "category": "conference",
+    "title": "(Brief Announcement) Twins: BFT Systems Made Robust",
+    "event": "International Symposium on Distributed Computing (DISC)",
+    "location": "Online",
+    "date": 2021,
+    "slides": "twins-short-v1.pdf",
+    "papers": ["twins.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "FastPay: High-Performance Byzantine Fault Tolerant Settlement",
+    "event": "LSE Blockchain Summit",
+    "location": "Online",
+    "date": 2021,
+    "slides": "fastpay-v5.pdf",
+    "papers": ["fastpay.pdf"]
+  },
+  {
+    "category": "conference",
+    "title": "Twins: BFT Systems Made Robust",
+    "event": "International Conference on Principles of Distributed Systems (OPODIS)",
+    "location": "Online",
+    "date": 2022,
+    "slides": "twins-v1.pdf",
+    "papers": ["twins.pdf"]
   }
 ]
