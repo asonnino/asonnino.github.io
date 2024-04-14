@@ -92,13 +92,7 @@
     "location": "Menlo Park, USA",
     "date": 2019,
     "slides": "coconut-v2.pdf",
-    "hosts": [
-      "David Marcus",
-      "Evan Cheng",
-      "Jim Everingham",
-      "Ben Maurer",
-      "Kevin Weil"
-    ],
+    "hosts": ["David Marcus", "Evan Cheng"],
     "papers": ["coconut.pdf"]
   },
   {
@@ -167,6 +161,7 @@
     "event": "Hydra",
     "location": "Online",
     "date": 2020,
+    "hosts": ["Ilia Volokh"],
     "slides": "chainspace-byzcuit-fastpay-v1.pdf",
     "papers": ["chainspace.pdf", "byzcuit.pdf", "fastpay.pdf"],
     "link": "https://2020.hydraconf.com/2020/msk/schedule/"
@@ -279,5 +274,256 @@
     "date": 2022,
     "slides": "twins-v1.pdf",
     "papers": ["twins.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "BullShark: DAG BFT Protocols Made Practical",
+    "event": "Celo and Sommelier Seminar",
+    "location": "Online",
+    "date": 2022,
+    "hosts": ["Zaki Manian"],
+    "slides": "bullshark-v1.pdf",
+    "papers": ["bullshark.pdf", "narwhal-and-tusk.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "The Sui Smart Contract Platform",
+    "event": "Chainlink Seminar",
+    "location": "Online",
+    "date": 2022,
+    "hosts": ["Dahlia Malkhi"],
+    "slides": "sui-lutris-v1.pdf",
+    "papers": [
+      "sui-lutris.pdf",
+      "narwhal-and-tusk.pdf",
+      "bullshark.pdf",
+      "fastpay.pdf",
+      "sui-whitepaper.pdf"
+    ]
+  },
+  {
+    "category": "invited",
+    "title": "The Sui Smart Contract Platform",
+    "event": "ETH Zurich Network Security Course (Graduate)",
+    "location": "Online",
+    "date": 2022,
+    "hosts": ["Adrian Perrig"],
+    "slides": "sui-lutris-v2.pdf",
+    "papers": [
+      "sui-lutris.pdf",
+      "narwhal-and-tusk.pdf",
+      "bullshark.pdf",
+      "fastpay.pdf",
+      "sui-whitepaper.pdf"
+    ],
+    "link": "https://netsec.ethz.ch/courses/netsec-2022"
+  },
+  {
+    "category": "conference",
+    "title": "Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus",
+    "event": "European Conference on Computer Systems (EuroSys)",
+    "location": "Rennes, France",
+    "date": 2022,
+    "slides": "narwhal-tusk-v2.pdf",
+    "papers": ["narwhal-and-tusk.pdf", "bullshark.pdf"],
+    "link": "http://2022.eurosys.org/index.html@p=494.html"
+  },
+  {
+    "category": "misc",
+    "title": "Diem Discovery Service: How to Make Wallets Interoperable",
+    "event": "F2 Research Presentation",
+    "location": "Online",
+    "date": 2022,
+    "slides": "diem-discovery-service-v2.pdf"
+  },
+  {
+    "category": "invited",
+    "title": "(Invited Talk) Efficient DAG-Based Consensus",
+    "event": "International Symposium on Foundations and Applications of Blockchain (FAB)",
+    "location": "Berkeley, USA",
+    "date": 2022,
+    "slides": "narwhal-tusk-v3.pdf",
+    "papers": ["narwhal-and-tusk.pdf", "bullshark.pdf"],
+    "link": "https://scfab.github.io/2022/schedule.html"
+  },
+  {
+    "category": "conference",
+    "title": "Efficient Multiparty Protocols Using Generalised Parseval's Identity and the Theta Algebra",
+    "event": "International Conference on Mathematics and Computers in Sciences and Industry (MCSI)",
+    "location": "Online",
+    "date": 2022,
+    "slides": "theta-mpc-v1.pdf",
+    "papers": ["theta-mpc.pdf", "fmpc.pdf"],
+    "link": "https://ieeexplore.ieee.org/xpl/conhome/10066055/proceeding"
+  },
+  {
+    "category": "invited",
+    "title": "Neglected DoS vulnerabilities of blockchain, Consensus Protocol",
+    "event": "SCION Day",
+    "location": "Online",
+    "date": 2022,
+    "hosts": ["Adrian Perrig"],
+    "slides": "blockchains-dos-v2.pdf",
+    "papers": ["consensus-dos.pdf"],
+    "link": "https://www.anapaya.net/events-scion-day-2022#:~:text=On%20the%2026th%20of%20January,SSFN%20were%20endorsed%20by%20Dr."
+  },
+  {
+    "category": "misc",
+    "title": "Efficient DAG-Based Consensus",
+    "event": "Sui Engineering Offsite",
+    "location": "Las Vegas, USA",
+    "date": 2022,
+    "slides": "bullshark-v2.pdf",
+    "papers": ["narwal-and-tusk.pdf", "bullshark.pdf"]
+  },
+  {
+    "category": "misc",
+    "title": "Sui Key Discovery",
+    "event": "Mysten Labs Research Presentation",
+    "location": "Online",
+    "date": 2022,
+    "slides": "arke-v1.pdf",
+    "papers": ["arke.pdf"]
+  },
+  {
+    "category": "misc",
+    "title": "Key Transparency: HSM Protocol",
+    "event": "WhatsApp Engineering Presentation",
+    "location": "Online",
+    "date": 2022,
+    "slides": "parakeet-system-v1.pdf",
+    "papers": ["parakeet.pdf"]
+  },
+  {
+    "category": "conference",
+    "title": "Sui Lutris: A Blockchain Combining Broadcast and Consensus",
+    "event": "ConsensusDays 23",
+    "location": "Online",
+    "date": 2023,
+    "slides": "sui-lutris-v3.pdf",
+    "papers": [
+      "sui-lutris.pdf",
+      "narwhal-and-tusk.pdf",
+      "bullshark.pdf",
+      "fastpay.pdf",
+      "sui-whitepaper.pdf"
+    ],
+    "link": "https://research.protocol.ai/sites/consensusday23/programme/"
+  },
+  {
+    "category": "invited",
+    "title": "The Sui Smart Contract Platform",
+    "event": "ETH Zurich Network Security Course (Graduate)",
+    "location": "Online",
+    "date": 2023,
+    "hosts": ["Adrian Perrig"],
+    "slides": "sui-lutris-v4.pdf",
+    "papers": [
+      "sui-lutris.pdf",
+      "narwhal-and-tusk.pdf",
+      "bullshark.pdf",
+      "fastpay.pdf",
+      "sui-whitepaper.pdf"
+    ],
+    "link": "https://netsec.ethz.ch/courses/netsec-2023"
+  },
+  {
+    "category": "misc",
+    "title": "FastUnlock",
+    "event": "Mysten Labs Company Offsite",
+    "location": "Hawaii, USA",
+    "date": 2023,
+    "slides": "cuttlefish-v1.pdf",
+    "papers": ["cuttlefish.pdf"]
+  },
+  {
+    "category": "misc",
+    "title": "Blockchains Synchronisation",
+    "event": "Mysten Labs Research Offsite",
+    "location": "Hawaii, USA",
+    "date": 2023,
+    "slides": "dag-synchronizer-v1.pdf"
+  },
+  {
+    "category": "misc",
+    "title": "Mysticeti: The Consensus Protocol",
+    "event": "Mysten Labs Engineering Offsite",
+    "location": "Denver, USA",
+    "date": 2023,
+    "slides": "mysticeti-v1.pdf",
+    "papers": ["mysticeti.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "BullShark: DAG BFT Protocols Made Practical",
+    "event": "Starkware Seminar",
+    "location": "Online",
+    "date": 2023,
+    "hosts": ["Ilia Volokh"],
+    "slides": "bullshark-v3.pdf",
+    "papers": ["bullshark.pdf", "narwhal-and-tusk.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "Narwhal-BullShark: DAG BFT Protocols Made Practical",
+    "event": "UCL Research Seminar",
+    "location": "Online",
+    "date": 2023,
+    "hosts": ["Philipp Jovanovic"],
+    "slides": "bullshark-v4.pdf",
+    "papers": ["bullshark.pdf", "narwhal-and-tusk.pdf"],
+    "link": "https://sec.cs.ucl.ac.uk/seminars/"
+  },
+  {
+    "category": "invited",
+    "title": "Mysticeti: The New Core of the Sui Blockchain",
+    "event": "University of Cambridge Seminar",
+    "location": "Cambridge, United Kingdom",
+    "date": 2024,
+    "hosts": ["Alastair Beresford"],
+    "slides": "mysticeti-v2.pdf",
+    "papers": ["mysticeti.pdf"],
+    "link": "https://www.cl.cam.ac.uk/research/security/seminars/archive/all.html"
+  },
+  {
+    "category": "invited",
+    "title": "Mysticeti: The New Core of the Sui Blockchain",
+    "event": "University of Bern Seminar",
+    "location": "Online",
+    "date": 2024,
+    "hosts": ["Christian Cachin"],
+    "slides": "mysticeti-v2.pdf",
+    "papers": ["mysticeti.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "Mysticeti: The New Core of the Sui Blockchain",
+    "event": "UCL Research Seminar",
+    "location": "Online",
+    "date": 2024,
+    "hosts": ["Philipp Jovanovic"],
+    "slides": "mysticeti-v2.pdf",
+    "papers": ["mysticeti.pdf"],
+    "link": "https://sec.cs.ucl.ac.uk/seminars/"
+  },
+  {
+    "category": "upcoming",
+    "title": "Panel 1: Frontiers in Layer 1 Blockchain Infrastructure",
+    "event": "DeCenter Spring Conference",
+    "location": "Princeton, USA",
+    "date": 2024,
+    "hosts": ["Pramod Viswanath"],
+    "papers": ["sui-lutris.pdf"],
+    "links": "https://decenter.princeton.edu/2nd-annual-spring-conference-agenda/"
+  },
+  {
+    "category": "upcoming",
+    "title": "Mysticeti: The New Core of the Sui Blockchain",
+    "event": "Yale Research Seminar",
+    "location": "Yale, USA",
+    "date": 2024,
+    "hosts": ["Fan Zhang"],
+    "slides": "mysticeti-v3.pdf",
+    "papers": ["mysticeti.pdf"]
   }
 ]

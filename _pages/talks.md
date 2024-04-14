@@ -8,9 +8,9 @@ redirect_from:
   - "/seminars.html"
 ---
 
-I had the opportunity to present several of my my works at the following events.
+I had the opportunity to present my work at the following events.
 
-### Invited Talks
+## Invited Talks
 
 {% assign invited_talks = site.data.talks | where: "category", "invited" %}
 {% assign grouped_by_year = invited_talks | group_by: "date" %}
@@ -23,7 +23,7 @@ I had the opportunity to present several of my my works at the following events.
 {% endfor %}
 {% endfor %}
 
-### Conferences and Workshops
+## Conferences and Workshops
 
 {% assign conference_talks = site.data.talks | where: "category", "conference" %}
 {% assign grouped_by_year = conference_talks | group_by: "date" %}
@@ -36,7 +36,7 @@ I had the opportunity to present several of my my works at the following events.
 {% endfor %}
 {% endfor %}
 
-### Others
+## Others
 
 {% assign misc_talks = site.data.talks | where: "category", "misc" %}
 {% assign grouped_by_year = misc_talks | group_by: "date" %}

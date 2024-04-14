@@ -2,31 +2,11 @@
 {% assign talk = include.talk %}
 
 <h4 class="archive__item-title" itemprop="headline">
-  <b>{{ talk.event }}</b>
+    <b>{{ talk.event }}</b> 
+    {% if talk.link %}
+        <a href="{{ talk.link }}"> <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+    {% endif %}
 </h4>
-
-<!-- {% if paper.category == "paper" %}
-<div class="small">
-  <a href="{{ base_path }}/papers/{{ paper.filename }}" rel="permalink">[pdf]
-  </a>
-  {% if paper.code %}
-  <a href="{{ paper.code }}" rel="permalink">[code]
-  </a>
-  {% endif %}
-  {% if paper.talk %}
-  <a href="{{ paper.talk }}" rel="permalink">[talk]
-  </a>
-  {% endif %}
-  {% if paper.slides %}
-  <a href="{{ paper.slides }}" rel="permalink">[slides]
-  </a>
-  {% endif %}
-  {% if paper.blogpost %}
-  <a href="{{ paper.blogpost }}" rel="permalink">[blog paper]
-  </a>
-  {% endif %}
-</div>
-{% endif %} -->
 
 {% if talk.location and talk.date %}
 <div class="archive__item-event">
@@ -55,7 +35,7 @@
 <div class="small">Hosted by {{ talk.hosts | join: ", " }}</div>
 {% endif %}
 
-{% if talk.papers.size > 0  %}
+<!-- {% if talk.papers.size > 0  %}
 <div class="small">
     Related papers:
     {% for paper in talk.papers %}
@@ -64,4 +44,4 @@
     </a>
     {% endfor %}
 </div>
-{% endif %}
+{% endif %} -->
