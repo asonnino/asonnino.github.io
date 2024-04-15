@@ -4,7 +4,7 @@
 <h4 class="archive__item-title" itemprop="headline">
     <b>{{ talk.event }}</b> 
     {% if talk.link %}
-        <a href="{{ talk.link }}"> <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
+        <a href="{{ talk.link }}" target="_blank"> <i class="fa fa-solid fa-link"></i></a>
     {% endif %}
 </h4>
 
@@ -25,9 +25,16 @@
 {% if talk.title %}
 <div class="small">
     <i>{{ talk.title }}</i>
-    <a href="{{ base_path }}/talks/{{ talk.slides }}" rel="permalink" target="_blank">
-        [slides]
-    </a>
+    {% if talk.slides %}
+        <a href="{{ base_path }}/slides/alberto-sonnino/{{ talk.slides }}" rel="permalink" target="_blank">
+            [slides]
+        </a>
+    {% endif %}
+    {% if talk.recording %}
+        <a href="{{ base_path }}/recordings/{{ talk.recording }}" rel="permalink" target="_blank">
+            [recording]
+        </a>
+    {% endif %}
 </div>
 {% endif %}
 

@@ -38,6 +38,14 @@
   },
   {
     "category": "invited",
+    "title": "Zero Knowledge Proof",
+    "event": "Computerphile",
+    "location": "London, United Kingdom",
+    "date": 2018,
+    "recording": "2018-computerphile.mp4"
+  },
+  {
+    "category": "invited",
     "title": "Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers",
     "event": "London Enterprise Tech Meetup (LNETM)",
     "location": "London, United Kingdom",
@@ -82,8 +90,9 @@
     "date": 2019,
     "slides": "byzcuit-v1.pdf",
     "hosts": ["Dahlia Malkhi"],
-    "papers": ["byzcuit.pdf"],
-    "link": "https://simons.berkeley.edu/workshops/large-scale-consensus-blockchains/schedule"
+    "papers": ["byzcuit.pdf", "chainspace.pdf"],
+    "link": "https://simons.berkeley.edu/workshops/large-scale-consensus-blockchains/schedule",
+    "recording": "2019-large-scale-consensus-and-blockchains-byzcuit-v1.mp4"
   },
   {
     "category": "invited",
@@ -118,12 +127,12 @@
   {
     "category": "invited",
     "title": "Coconut: Threshold Issuance Selective Disclosure Credentials with Applications to Distributed Ledgers",
-    "event": "ZK London",
+    "event": "Zero Knowledge London (ZK-LDN) 0x05",
     "location": "London, United Kingdom",
     "date": 2019,
     "slides": "coconut-vulgarised-v1.pdf",
     "papers": ["coconut.pdf"],
-    "link": "https://cbr.stanford.edu/sbc19/"
+    "recording": "2019-zk-ldn-coconut-vulgarised-v1.mp4"
   },
   {
     "category": "conference",
@@ -133,17 +142,19 @@
     "date": 2020,
     "slides": "fastpay-v1.pdf",
     "papers": ["fastpay.pdf"],
-    "link": "https://aftconf.github.io/aft20/program.html"
+    "link": "https://aftconf.github.io/aft20/program.html",
+    "recording": "2020-aft-fastpay-v1.mp4"
   },
   {
     "category": "invited",
     "title": "FastPay: High-Performance Byzantine Fault Tolerant Settlement",
-    "event": "Berkeley Seminar",
-    "location": "Berkeley, USA",
+    "event": "Berkeley | Facebook Lightning Talks",
+    "location": "Online",
     "date": 2020,
     "slides": "fastpay-v1.pdf",
     "hosts": ["Dahlia Malkhi"],
-    "papers": ["fastpay.pdf"]
+    "papers": ["fastpay.pdf"],
+    "recording": "2020-berkeley-facebook-lightning-talks-fastpay-v1.mp4"
   },
   {
     "category": "conference",
@@ -152,8 +163,9 @@
     "location": "Online",
     "date": 2020,
     "slides": "byzcuit-v2.pdf",
-    "papers": ["byzcuit.pdf"],
-    "link": "https://www.ieee-security.org/TC/EuroSP2020/accepted.html"
+    "papers": ["byzcuit.pdf", "chainspace.pdf"],
+    "link": "https://www.ieee-security.org/TC/EuroSP2020/accepted.html",
+    "recording": "2020-eurosp-byzcuit-v2.mp4"
   },
   {
     "category": "invited",
@@ -164,7 +176,8 @@
     "hosts": ["Ilia Volokh"],
     "slides": "chainspace-byzcuit-fastpay-v1.pdf",
     "papers": ["chainspace.pdf", "byzcuit.pdf", "fastpay.pdf"],
-    "link": "https://2020.hydraconf.com/2020/msk/schedule/"
+    "link": "https://2020.hydraconf.com/2020/msk/schedule/",
+    "recording": "2020-hydra-chainspace-byzcuit-fastpay-v1.mp4"
   },
   {
     "category": "misc",
@@ -198,7 +211,8 @@
     "date": 2020,
     "hosts": ["Marko Vukolić"],
     "slides": "fastpay-v2.pdf",
-    "papers": ["fastpay.pdf"]
+    "papers": ["fastpay.pdf"],
+    "recording": "2020-protocol-labs-seminar-fastpay-v2.mp4"
   },
   {
     "category": "invited",
@@ -219,7 +233,8 @@
     "hosts": ["Ross Anderson"],
     "slides": "fastpay-v4.pdf",
     "papers": ["fastpay.pdf"],
-    "link": "https://www.cl.cam.ac.uk/research/security/seminars/archive/all.html"
+    "link": "https://www.cl.cam.ac.uk/research/security/seminars/archive/all.html",
+    "recording": "2021-university-of-cambridge-seminar-fastpay-v4.mp4"
   },
   {
     "category": "conference",
@@ -229,7 +244,8 @@
     "date": 2021,
     "slides": "narwhal-tusk-v1.pdf",
     "papers": ["narwal-and-tusk.pdf"],
-    "link": "https://research.protocol.ai/sites/consensusday21/programme/"
+    "link": "https://research.protocol.ai/sites/consensusday21/programme/",
+    "recording": "2021-consensus-day21-narwhal-and-tusk-v1.mp4"
   },
   {
     "category": "misc",
@@ -246,7 +262,7 @@
     "location": "Online",
     "date": 2021,
     "slides": "byzcuit-v3.pdf",
-    "papers": ["byzcuit.pdf"]
+    "papers": ["byzcuit.pdf", "chainspace.pdf"]
   },
   {
     "category": "conference",
@@ -271,9 +287,11 @@
     "title": "Twins: BFT Systems Made Robust",
     "event": "International Conference on Principles of Distributed Systems (OPODIS)",
     "location": "Online",
-    "date": 2022,
+    "date": 2021,
     "slides": "twins-v1.pdf",
-    "papers": ["twins.pdf"]
+    "papers": ["twins.pdf"],
+    "link": "https://opodis2021.unistra.fr/program",
+    "recording": "2022-opodis-twins-v1.mp4"
   },
   {
     "category": "invited",
@@ -293,13 +311,7 @@
     "date": 2022,
     "hosts": ["Dahlia Malkhi"],
     "slides": "sui-lutris-v1.pdf",
-    "papers": [
-      "sui-lutris.pdf",
-      "narwhal-and-tusk.pdf",
-      "bullshark.pdf",
-      "fastpay.pdf",
-      "sui-whitepaper.pdf"
-    ]
+    "papers": ["sui-lutris.pdf", "fastpay.pdf", "sui-whitepaper.pdf"]
   },
   {
     "category": "invited",
@@ -311,8 +323,7 @@
     "slides": "sui-lutris-v2.pdf",
     "papers": [
       "sui-lutris.pdf",
-      "narwhal-and-tusk.pdf",
-      "bullshark.pdf",
+      "consensus-dos.pdf",
       "fastpay.pdf",
       "sui-whitepaper.pdf"
     ],
@@ -325,7 +336,7 @@
     "location": "Rennes, France",
     "date": 2022,
     "slides": "narwhal-tusk-v2.pdf",
-    "papers": ["narwhal-and-tusk.pdf", "bullshark.pdf"],
+    "papers": ["narwhal-and-tusk.pdf"],
     "link": "http://2022.eurosys.org/index.html@p=494.html"
   },
   {
@@ -343,7 +354,7 @@
     "location": "Berkeley, USA",
     "date": 2022,
     "slides": "narwhal-tusk-v3.pdf",
-    "papers": ["narwhal-and-tusk.pdf", "bullshark.pdf"],
+    "papers": ["narwhal-and-tusk.pdf"],
     "link": "https://scfab.github.io/2022/schedule.html"
   },
   {
@@ -365,7 +376,8 @@
     "hosts": ["Adrian Perrig"],
     "slides": "blockchains-dos-v2.pdf",
     "papers": ["consensus-dos.pdf"],
-    "link": "https://www.anapaya.net/events-scion-day-2022#:~:text=On%20the%2026th%20of%20January,SSFN%20were%20endorsed%20by%20Dr."
+    "link": "https://www.anapaya.net/events-scion-day-2022#:~:text=On%20the%2026th%20of%20January,SSFN%20were%20endorsed%20by%20Dr",
+    "recording": "2022-scion-day-blockchains-dos-v2.mp4"
   },
   {
     "category": "misc",
@@ -401,14 +413,9 @@
     "location": "Online",
     "date": 2023,
     "slides": "sui-lutris-v3.pdf",
-    "papers": [
-      "sui-lutris.pdf",
-      "narwhal-and-tusk.pdf",
-      "bullshark.pdf",
-      "fastpay.pdf",
-      "sui-whitepaper.pdf"
-    ],
-    "link": "https://research.protocol.ai/sites/consensusday23/programme/"
+    "papers": ["sui-lutris.pdf", "fastpay.pdf", "sui-whitepaper.pdf"],
+    "link": "https://research.protocol.ai/sites/consensusday23/programme/",
+    "recording": "2023-consensus-day23-sui-lutris-v3.mp4"
   },
   {
     "category": "invited",
@@ -420,8 +427,7 @@
     "slides": "sui-lutris-v4.pdf",
     "papers": [
       "sui-lutris.pdf",
-      "narwhal-and-tusk.pdf",
-      "bullshark.pdf",
+      "consensus-dos.pdf",
       "fastpay.pdf",
       "sui-whitepaper.pdf"
     ],
@@ -440,7 +446,7 @@
     "category": "misc",
     "title": "Blockchains Synchronisation",
     "event": "Mysten Labs Research Offsite",
-    "location": "Hawaii, USA",
+    "location": "Paris, France",
     "date": 2023,
     "slides": "dag-synchronizer-v1.pdf"
   },
@@ -472,7 +478,8 @@
     "hosts": ["Philipp Jovanovic"],
     "slides": "bullshark-v4.pdf",
     "papers": ["bullshark.pdf", "narwhal-and-tusk.pdf"],
-    "link": "https://sec.cs.ucl.ac.uk/seminars/"
+    "link": "https://sec.cs.ucl.ac.uk/seminars/",
+    "recording": "2023-ucl-research-seminar-bullshark-v4.mp4"
   },
   {
     "category": "invited",
@@ -483,7 +490,8 @@
     "hosts": ["Alastair Beresford"],
     "slides": "mysticeti-v2.pdf",
     "papers": ["mysticeti.pdf"],
-    "link": "https://www.cl.cam.ac.uk/research/security/seminars/archive/all.html"
+    "link": "https://www.cl.cam.ac.uk/research/security/seminars/archive/all.html",
+    "recording": "2024-university-of-cambridge-seminar-mysticeti-v2.mp4"
   },
   {
     "category": "invited",
@@ -504,7 +512,8 @@
     "hosts": ["Philipp Jovanovic"],
     "slides": "mysticeti-v2.pdf",
     "papers": ["mysticeti.pdf"],
-    "link": "https://sec.cs.ucl.ac.uk/seminars/"
+    "link": "https://sec.cs.ucl.ac.uk/seminars/",
+    "recording": "2024-ucl-research-seminar-mysticeti-v2.mp4"
   },
   {
     "category": "upcoming",

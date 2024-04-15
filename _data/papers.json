@@ -139,7 +139,7 @@
     "category": "report",
     "title": "SybilQuorum: Open Distributed Ledgers Through Trust Networks",
     "authors": "Alberto Sonnino, George Danezis",
-    "venue": "Stanford Blockchain Conference (SBC)",
+    "venue": "(No Proceedings) Stanford Blockchain Conference (SBC)",
     "date": 2019,
     "filename": "sybilquorum.pdf",
     "link": "https://cbr.stanford.edu/sbc19/"
@@ -361,9 +361,9 @@
   },
   {
     "category": "report",
-    "title": "(No Proceedings) Cuttlefish: Expressive Fast Path Blockchains with FastUnlock",
+    "title": "Cuttlefish: Expressive Fast Path Blockchains with FastUnlock",
     "authors": "Lefteris Kokoris-Kogias, Alberto Sonnino, George Danezis",
-    "venue": "Workshop on Principles and Practice of Consistency for Distributed Data",
+    "venue": "(No Proceedings) Workshop on Principles and Practice of Consistency for Distributed Data",
     "date": 2024,
     "filename": "cuttlefish.pdf",
     "linik": "https://papoc-workshop.github.io/2024/program.html"
