@@ -42,7 +42,7 @@
     "event": "Computerphile",
     "location": "London, United Kingdom",
     "date": 2018,
-    "recording": "2018-computerphile.mp4"
+    "video": "2018-computerphile.mp4"
   },
   {
     "category": "invited",
@@ -92,7 +92,7 @@
     "hosts": ["Dahlia Malkhi"],
     "papers": ["byzcuit.pdf", "chainspace.pdf"],
     "link": "https://simons.berkeley.edu/workshops/large-scale-consensus-blockchains/schedule",
-    "recording": "2019-large-scale-consensus-and-blockchains-byzcuit-v1.mp4"
+    "video": "2019-large-scale-consensus-and-blockchains-byzcuit-v1.mp4"
   },
   {
     "category": "invited",
@@ -132,7 +132,7 @@
     "date": 2019,
     "slides": "coconut-vulgarised-v1.pdf",
     "papers": ["coconut.pdf"],
-    "recording": "2019-zk-ldn-coconut-vulgarised-v1.mp4"
+    "video": "2019-zk-ldn-coconut-vulgarised-v1.mp4"
   },
   {
     "category": "conference",
@@ -143,7 +143,7 @@
     "slides": "fastpay-v1.pdf",
     "papers": ["fastpay.pdf"],
     "link": "https://aftconf.github.io/aft20/program.html",
-    "recording": "2020-aft-fastpay-v1.mp4"
+    "video": "2020-aft-fastpay-v1.mp4"
   },
   {
     "category": "invited",
@@ -154,7 +154,7 @@
     "slides": "fastpay-v1.pdf",
     "hosts": ["Dahlia Malkhi"],
     "papers": ["fastpay.pdf"],
-    "recording": "2020-berkeley-facebook-lightning-talks-fastpay-v1.mp4"
+    "video": "2020-berkeley-facebook-lightning-talks-fastpay-v1.mp4"
   },
   {
     "category": "conference",
@@ -165,7 +165,7 @@
     "slides": "byzcuit-v2.pdf",
     "papers": ["byzcuit.pdf", "chainspace.pdf"],
     "link": "https://www.ieee-security.org/TC/EuroSP2020/accepted.html",
-    "recording": "2020-eurosp-byzcuit-v2.mp4"
+    "video": "2020-eurosp-byzcuit-v2.mp4"
   },
   {
     "category": "invited",
@@ -177,7 +177,7 @@
     "slides": "chainspace-byzcuit-fastpay-v1.pdf",
     "papers": ["chainspace.pdf", "byzcuit.pdf", "fastpay.pdf"],
     "link": "https://2020.hydraconf.com/2020/msk/schedule/",
-    "recording": "2020-hydra-chainspace-byzcuit-fastpay-v1.mp4"
+    "video": "2020-hydra-chainspace-byzcuit-fastpay-v1.mp4"
   },
   {
     "category": "misc",
@@ -212,7 +212,7 @@
     "hosts": ["Marko Vukolić"],
     "slides": "fastpay-v2.pdf",
     "papers": ["fastpay.pdf"],
-    "recording": "2020-protocol-labs-seminar-fastpay-v2.mp4"
+    "video": "2020-protocol-labs-seminar-fastpay-v2.mp4"
   },
   {
     "category": "invited",
@@ -234,7 +234,7 @@
     "slides": "fastpay-v4.pdf",
     "papers": ["fastpay.pdf"],
     "link": "https://www.cl.cam.ac.uk/research/security/seminars/archive/all.html",
-    "recording": "2021-university-of-cambridge-seminar-fastpay-v4.mp4"
+    "video": "2021-university-of-cambridge-seminar-fastpay-v4.mp4"
   },
   {
     "category": "conference",
@@ -245,7 +245,7 @@
     "slides": "narwhal-tusk-v1.pdf",
     "papers": ["narwal-and-tusk.pdf"],
     "link": "https://research.protocol.ai/sites/consensusday21/programme/",
-    "recording": "2021-consensus-day21-narwhal-and-tusk-v1.mp4"
+    "video": "2021-consensus-day21-narwhal-and-tusk-v1.mp4"
   },
   {
     "category": "misc",
@@ -291,7 +291,7 @@
     "slides": "twins-v1.pdf",
     "papers": ["twins.pdf"],
     "link": "https://opodis2021.unistra.fr/program",
-    "recording": "2022-opodis-twins-v1.mp4"
+    "video": "2022-opodis-twins-v1.mp4"
   },
   {
     "category": "invited",
@@ -377,7 +377,7 @@
     "slides": "blockchains-dos-v2.pdf",
     "papers": ["consensus-dos.pdf"],
     "link": "https://www.anapaya.net/events-scion-day-2022",
-    "recording": "2022-scion-day-blockchains-dos-v2.mp4"
+    "video": "2022-scion-day-blockchains-dos-v2.mp4"
   },
   {
     "category": "misc",
@@ -415,7 +415,7 @@
     "slides": "sui-lutris-v3.pdf",
     "papers": ["sui-lutris.pdf", "fastpay.pdf", "sui-whitepaper.pdf"],
     "link": "https://research.protocol.ai/sites/consensusday23/programme/",
-    "recording": "2023-consensus-day23-sui-lutris-v3.mp4"
+    "video": "2023-consensus-day23-sui-lutris-v3.mp4"
   },
   {
     "category": "invited",
@@ -479,7 +479,7 @@
     "slides": "bullshark-v4.pdf",
     "papers": ["bullshark.pdf", "narwhal-and-tusk.pdf"],
     "link": "https://sec.cs.ucl.ac.uk/seminars/",
-    "recording": "2023-ucl-research-seminar-bullshark-v4.mp4"
+    "video": "2023-ucl-research-seminar-bullshark-v4.mp4"
   },
   {
     "category": "invited",
@@ -491,7 +491,7 @@
     "slides": "mysticeti-v2.pdf",
     "papers": ["mysticeti.pdf"],
     "link": "https://www.cl.cam.ac.uk/research/security/seminars/archive/all.html",
-    "recording": "2024-university-of-cambridge-seminar-mysticeti-v2.mp4"
+    "video": "2024-university-of-cambridge-seminar-mysticeti-v2.mp4"
   },
   {
     "category": "invited",
@@ -513,7 +513,7 @@
     "slides": "mysticeti-v2.pdf",
     "papers": ["mysticeti.pdf"],
     "link": "https://sec.cs.ucl.ac.uk/seminars/",
-    "recording": "2024-ucl-research-seminar-mysticeti-v2.mp4"
+    "video": "2024-ucl-research-seminar-mysticeti-v2.mp4"
   },
   {
     "category": "upcoming",
