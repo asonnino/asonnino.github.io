@@ -8,7 +8,7 @@ redirect_from:
   - "/seminars.html"
 ---
 
-I had the opportunity to present my work at the following events.
+I had the opportunity to speak at the following events.
 
 ## Invited Talks
 
