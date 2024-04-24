@@ -535,7 +535,6 @@
     "location": "Princeton, USA",
     "date": 2024,
     "hosts": ["Pramod Viswanath"],
-    "papers": ["sui-lutris.pdf"],
     "links": "https://decenter.princeton.edu/events/spring-conference-2024/"
   },
   {
@@ -547,5 +546,14 @@
     "hosts": ["Fan Zhang"],
     "slides": "mysticeti-v3.pdf",
     "papers": ["mysticeti.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "A Chat with Sui",
+    "event": "X Space: ZK Validator | Sui",
+    "location": "Online",
+    "date": 2024,
+    "hosts": ["Philipp Jovanovic"],
+    "link": "https://twitter.com/zkv_xyz/status/1782522353462759584"
   }
 ]
