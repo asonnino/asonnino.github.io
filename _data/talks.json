@@ -529,7 +529,7 @@
     "recording": "https://www.youtube.com/watch?v=wRXhxB0mR8Y"
   },
   {
-    "category": "upcoming",
+    "category": "invited",
     "title": "Panel 1: Frontiers in Layer 1 Blockchain Infrastructure",
     "event": "DeCenter Spring Conference",
     "location": "Princeton, USA",
@@ -539,7 +539,7 @@
     "links": "https://decenter.princeton.edu/events/spring-conference-2024/"
   },
   {
-    "category": "upcoming",
+    "category": "invited",
     "title": "Mysticeti: The New Core of the Sui Blockchain",
     "event": "Yale Research Seminar",
     "location": "Yale, USA",

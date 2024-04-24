@@ -231,7 +231,7 @@
     "adoptions": [
       "Adopted by Flow",
       "Adopted by Diem",
-      "Adopted by Aptos",
+      "Commercialized by Aptos",
       "Adopted by Monad"
     ]
   },
@@ -374,7 +374,8 @@
     "authors": "Kushal Babel, Andrey Chursin, George Danezis, Lefteris Kokoris-Kogias, Alberto Sonnino",
     "venue": "ArXiv Preprint",
     "date": 2023,
-    "filename": "mysticeti.pdf"
+    "filename": "mysticeti.pdf",
+    "adoptions": ["Adopted by Sui"]
   },
   {
     "category": "publication",
