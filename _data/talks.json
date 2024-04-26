@@ -482,7 +482,7 @@
   {
     "category": "invited",
     "title": "Narwhal-BullShark: DAG BFT Protocols Made Practical",
-    "event": "UCL Research Seminar",
+    "event": "UCL Seminar",
     "location": "Online",
     "date": 2023,
     "hosts": ["Philipp Jovanovic"],
@@ -518,7 +518,7 @@
   {
     "category": "invited",
     "title": "Mysticeti: The New Core of the Sui Blockchain",
-    "event": "UCL Research Seminar",
+    "event": "UCL Seminar",
     "location": "Online",
     "date": 2024,
     "hosts": ["Philipp Jovanovic"],
@@ -540,11 +540,21 @@
   {
     "category": "invited",
     "title": "Mysticeti: The New Core of the Sui Blockchain",
-    "event": "Yale Research Seminar",
+    "event": "Yale Visitor Talk",
     "location": "Yale, USA",
     "date": 2024,
     "hosts": ["Fan Zhang"],
     "slides": "mysticeti-v3.pdf",
+    "papers": ["mysticeti.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "Mysticeti: The New Core of the Sui Blockchain",
+    "event": "NYU Seminar",
+    "location": "New York, USA",
+    "date": 2024,
+    "hosts": ["Yevgeniy Dodis"],
+    "slides": "mysticeti-v4.pdf",
     "papers": ["mysticeti.pdf"]
   },
   {
