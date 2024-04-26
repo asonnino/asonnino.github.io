@@ -555,7 +555,8 @@
     "date": 2024,
     "hosts": ["Yevgeniy Dodis"],
     "slides": "mysticeti-v4.pdf",
-    "papers": ["mysticeti.pdf"]
+    "papers": ["mysticeti.pdf"],
+    "link": "https://calendar.google.com/calendar/u/0/embed?src=d91e4adc4b40b4f4551074be31e8f3cef8f6afefd849a45aeb21852ea63458e4@group.calendar.google.com"
   },
   {
     "category": "invited",
