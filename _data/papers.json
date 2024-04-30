@@ -371,7 +371,7 @@
   {
     "category": "submission",
     "title": "Mysticeti: Low-Latency DAG Consensus with Fast Commit Path",
-    "authors": "Kushal Babel, Andrey Chursin, George Danezis, Lefteris Kokoris-Kogias, Alberto Sonnino",
+    "authors": "Kushal Babel, Andrey Chursin, George Danezis, Anastasios Kichidis, Lefteris Kokoris-Kogias, Arun Koshy, Alberto Sonnino, Mingwei Tian",
     "venue": "ArXiv Preprint",
     "date": 2023,
     "filename": "mysticeti.pdf",
