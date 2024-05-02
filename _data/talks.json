@@ -566,5 +566,15 @@
     "date": 2024,
     "hosts": ["Philipp Jovanovic"],
     "link": "https://twitter.com/zkv_xyz/status/1782522353462759584"
+  },
+  {
+    "category": "invited",
+    "title": "Mysticeti: The New Core of the Sui Blockchain",
+    "event": "Cornell Seminar",
+    "location": "Ithaca, USA",
+    "date": 2024,
+    "hosts": ["Lorenzo Alvisi & Florian Suri-Payer"],
+    "slides": "mysticeti-v4.pdf",
+    "papers": ["mysticeti.pdf"]
   }
 ]
