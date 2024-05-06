@@ -334,11 +334,11 @@
     "adoptions": ["Integrated into fastcrypto"]
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Sui Lutris: A Blockchain Combining Broadcast and Consensus",
     "authors": "Same Blackshear, Andrey Chursin, George Danezis, Anastasios Kichidis, Lefteris Kokoris-Kogias, Xun Li, Mark Logan, Ashok Menon, Todd Nowacki, Alberto Sonnino, Brandon Williams, Lu Zhang",
-    "venue": "IACR Preprint",
-    "date": 2023,
+    "venue": "Conference on Computer and Communications Security (CCS)",
+    "date": 2024,
     "filename": "sui-lutris.pdf",
     "adoptions": ["Commercialized by Sui"]
   },
