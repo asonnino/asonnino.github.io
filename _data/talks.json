@@ -573,8 +573,28 @@
     "event": "Cornell Seminar",
     "location": "Ithaca, USA",
     "date": 2024,
-    "hosts": ["Lorenzo Alvisi & Florian Suri-Payer"],
+    "hosts": ["Lorenzo Alvisi", "Florian Suri-Payer"],
     "slides": "mysticeti-v4.pdf",
+    "papers": ["mysticeti.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "Mysticeti: The New Core of the Sui Blockchain",
+    "event": "Stanford Blockchain Research (CBR) Seminar",
+    "location": "Stanford, USA",
+    "date": 2024,
+    "hosts": ["David Tse", "Joachim Neu"],
+    "slides": "mysticeti-v5.pdf",
+    "papers": ["mysticeti.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "Mysticeti: The New Core of the Sui Blockchain",
+    "event": "Berkeley Seminar",
+    "location": "Berkeley, USA",
+    "date": 2024,
+    "hosts": ["Natacha Crooks"],
+    "slides": "mysticeti-v5.pdf",
     "papers": ["mysticeti.pdf"]
   }
 ]
