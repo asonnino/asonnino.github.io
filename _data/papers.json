@@ -386,11 +386,11 @@
     "filename": "disc-ng.pdf"
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Sloth: Key Stretching and Deniable Encryption using Secure Elements on Smartphones",
     "authors": "Daniel Hugenroth, Alberto Sonnino, Sam Cutler, Alastair R. Beresford",
-    "venue": "IACR Preprint",
-    "date": 2023,
+    "venue": "International Symposium on Privacy Enhancing Technologies (PETs)",
+    "date": 2024,
     "filename": "sloth.pdf"
   },
   {
