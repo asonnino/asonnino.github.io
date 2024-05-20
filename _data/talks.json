@@ -597,5 +597,15 @@
     "hosts": ["Natacha Crooks"],
     "slides": "mysticeti-v6.pdf",
     "papers": ["mysticeti.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "Mysticeti: The New Core of the Sui Blockchain",
+    "event": "Imperial College London Seminar",
+    "location": "London, United Kingdom",
+    "date": 2024,
+    "hosts": ["Peter Pietzuch"],
+    "slides": "mysticeti-v7.pdf",
+    "papers": ["mysticeti.pdf"]
   }
 ]
