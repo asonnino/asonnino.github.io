@@ -608,5 +608,14 @@
     "hosts": ["Peter Pietzuch"],
     "slides": "mysticeti-v7.pdf",
     "papers": ["mysticeti.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "Mysticeti on Testnet",
+    "event": "X Space: Mysticeti on Testnet",
+    "location": "Online",
+    "date": 2024,
+    "hosts": ["SuiWayne Cunningham"],
+    "link": "https://twitter.com/i/spaces/1OwxWYAjnyNGQ"
   }
 ]
