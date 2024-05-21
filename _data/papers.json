@@ -219,7 +219,11 @@
     "venue": "Conference on Computer and Communications Security (CCS)",
     "date": 2022,
     "filename": "bullshark.pdf",
-    "adoptions": ["Commercialized by Sui", "Adopted by Aleo"]
+    "adoptions": [
+      "Commercialized by Sui",
+      "Adopted by Aleo",
+      "Adopted by Fleek"
+    ]
   },
   {
     "category": "publication",
@@ -255,7 +259,7 @@
     "awards": ["Best paper award"],
     "adoptions": [
       "Commercialized by Sui",
-      "Adopted by Aptos",
+      "Adopted by Fleek",
       "Adopted by Aleo"
     ]
   },
