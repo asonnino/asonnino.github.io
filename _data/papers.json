@@ -350,8 +350,8 @@
     "category": "publication",
     "title": "Arke: Scalable and Byzantine Fault Tolerant Privacy-Preserving Contact Discovery",
     "authors": "Nicolas Mohnblatt, Alberto Sonnino, Kobi Gurkan, Philipp Jovanovic",
-    "venue": "IACR Preprint",
-    "date": 2023,
+    "venue": "Conference on Computer and Communications Security (CCS)",
+    "date": 2024,
     "filename": "arke.pdf"
   },
   {
