@@ -617,5 +617,25 @@
     "date": 2024,
     "hosts": ["SuiWayne Cunningham"],
     "link": "https://twitter.com/i/spaces/1OwxWYAjnyNGQ"
+  },
+  {
+    "category": "invited",
+    "title": "Mysticeti: The New Core of the Sui Blockchain",
+    "event": "ETH Zurich Seminar",
+    "location": "Zurich, Switzerland",
+    "date": 2024,
+    "hosts": ["Adrian Perrig", "Roger Wattenhofer"],
+    "slides": "mysticeti-v7.pdf",
+    "papers": ["mysticeti.pdf"]
+  },
+  {
+    "category": "invited",
+    "title": "Mysticeti: The New Core of the Sui Blockchain",
+    "event": "EPFL Seminar",
+    "location": "Lausanne, Switzerland",
+    "date": 2024,
+    "hosts": ["Brian Ford"],
+    "slides": "mysticeti-v7.pdf",
+    "papers": ["mysticeti.pdf"]
   }
 ]
