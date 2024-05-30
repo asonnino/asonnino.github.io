@@ -18,7 +18,7 @@ I had the opportunity to speak at the following events.
 
 {% for group in sorted_groups reversed %}
 {% assign sorted_talks = group.items | sort: "title" %}
-{% for talk in sorted_talks %}
+{% for talk in sorted_talks reversed %}
 {% include talk.html talk=talk %}
 {% endfor %}
 {% endfor %}
