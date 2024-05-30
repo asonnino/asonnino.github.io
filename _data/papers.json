@@ -347,7 +347,7 @@
     "adoptions": ["Commercialized by Sui"]
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Arke: Scalable and Byzantine Fault Tolerant Privacy-Preserving Contact Discovery",
     "authors": "Nicolas Mohnblatt, Alberto Sonnino, Kobi Gurkan, Philipp Jovanovic",
     "venue": "IACR Preprint",
