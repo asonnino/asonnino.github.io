@@ -421,5 +421,13 @@
     "venue": "ACM ASIA Conference on Computer and Communications Security (AsiaCCS)",
     "date": 2024,
     "filename": "consensus-dos.pdf"
+  },
+  {
+    "category": "submission",
+    "title": "Thunderbolt: Causal Concurrent Consensus and Execution",
+    "authors": "Junchao Chen, Alberto Sonnino, Lefteris Kokoris-Kogias, Mohammad Sadoghi",
+    "venue": "ArXiv Preprint",
+    "date": 2024,
+    "filename": "thunderbolt.pdf"
   }
 ]
