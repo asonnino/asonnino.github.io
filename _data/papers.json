@@ -26,14 +26,15 @@
     "authors": "Zachary Amsden, Ramnik Arora, Shehar Bano, Mathieu Baudet, Sam Blackshear, Abhay Bothra, George Cabrera, Christian Catalini, Konstantinos Chalkias, Evan Cheng, Avery Ching, Andrey Chursin, George Danezis, Gerardo Di Giacomo, David L. Dill, Hui Ding, Nick Doudchenko, Victor Gao, Zhenhuan Gao, François Garillot, Michael Gorven, Philip Hayes, J. Mark Hou, Yuxuan Hu, Kevin Hurley, Kevin Lewi, Chunqi Li, Zekun Li, Dahlia Malkhi, Sonia Margulis, Ben Maurer, Payman Mohassel, Ladi de Naurois, Valeria Nikolaenko, Todd Nowacki, Oleksandr Orlov, Dmitri Perelman, Alistair Pott, Brett Proctor, Shaz Qadeer, Rain, Dario Russi, Bryan Schwab, Stephane Sezer, Alberto Sonnino, Herman Venter, Lei Wei, Nils Wernerfelt, Brandon Williams, Qinfan Wu, Xifan Yan, Tim Zakian, Runtian Zhou",
     "date": 2019,
     "filename": "libra.pdf",
-    "code": "https://github.com/diem/diem"
+    "code": "https://github.com/asonnino/libra"
   },
   {
     "category": "libra",
     "title": "State Machine Replication in the Libra Blockchain",
     "authors": "Mathieu Baudet, Avery Ching, Andrey Chursin, George Danezis, François Garillot, Zekun Li, Dahlia Malkhi, Oded Naor, Dmitri Perelman, Alberto Sonnino",
     "date": 2019,
-    "filename": "librabft.pdf"
+    "filename": "librabft.pdf",
+    "code": "https://github.com/asonnino/libra"
   },
   {
     "category": "libra",
@@ -47,7 +48,8 @@
     "title": "Bullshark: The Partially Synchronous Version",
     "authors": "Alexander Spiegelman, Neil Giridharan, Alberto Sonnino, Lefteris Kokoris-Kogias",
     "date": 2022,
-    "filename": "bullshark-simple.pdf"
+    "filename": "bullshark-simple.pdf",
+    "code": "https://github.com/asonnino/narwhal/tree/bullshark"
   },
   {
     "category": "publication",
@@ -55,7 +57,8 @@
     "authors": "Shalina Figuli, Alberto Sonnino, Peter Figuli, Jürgen Becker",
     "venue": "IEEE International Conference on Telecommunications and Signal Processing (TSP)",
     "date": 2016,
-    "filename": "qam-transmitter.pdf"
+    "filename": "qam-transmitter.pdf",
+    "code": "https://github.com/asonnino/fourier-transmitter"
   },
   {
     "category": "publication",
@@ -70,7 +73,8 @@
     "title": "Airtnt: Fair Exchange Payment for Outsourced Secure Enclave Computations",
     "authors": "Mustafa Al-Bassam, Alberto Sonnino, Michał Król, Ioannis Psaras",
     "date": 2018,
-    "filename": "airtnt.pdf"
+    "filename": "airtnt.pdf",
+    "code": "https://github.com/asonnino/airtnt"
   },
   {
     "category": "publication",
@@ -79,7 +83,8 @@
     "venue": "Network and Distributed System Security Symposium (NDSS)",
     "date": 2018,
     "filename": "chainspace.pdf",
-    "adoptions": ["Commercialized by Chainspace"]
+    "adoptions": ["Commercialized by Chainspace"],
+    "code": "https://github.com/chainspace"
   },
   {
     "category": "publication",
@@ -102,11 +107,12 @@
       "Adopted by Chainspace",
       "Integrated into Cosmos SDK",
       "Adopted by DECODE"
-    ]
+    ],
+    "code": "https://github.com/asonnino/coconut"
   },
   {
     "category": "report",
-    "title": "FMPC: Secure Multiparty Computation from Fourier Series and Parseval’s Identity",
+    "title": "FMPC: Secure Multiparty Computation from Fourier Series and Parseval's Identity",
     "authors": "Alberto Sonnino",
     "date": 2019,
     "filename": "fmpc.pdf"
@@ -142,7 +148,8 @@
     "venue": "(No Proceedings) Stanford Blockchain Conference (SBC)",
     "date": 2019,
     "filename": "sybilquorum.pdf",
-    "link": "https://cbr.stanford.edu/sbc19/"
+    "link": "https://cbr.stanford.edu/sbc19/",
+    "code": "https://github.com/asonnino/sybilquorum-experiments"
   },
   {
     "category": "publication",
@@ -160,7 +167,8 @@
     "venue": "ACM Conference on Advances in Financial Technologies (AFT)",
     "date": 2020,
     "filename": "fastpay.pdf",
-    "adoptions": ["Commercialized by Sui", "Foundation of Linera"]
+    "adoptions": ["Commercialized by Sui", "Foundation of Linera"],
+    "code": "https://github.com/asonnino/fastpay"
   },
   {
     "category": "publication",
@@ -168,7 +176,8 @@
     "authors": "Michał Król, Alberto Sonnino, Argyrios G. Tasiopoulos, Ioannis Psaras, Etienne Rivi&egrave;re",
     "venue": "ACM/IFIP Middleware",
     "date": 2020,
-    "filename": "pastrami.pdf"
+    "filename": "pastrami.pdf",
+    "code": "https://github.com/asonnino/pastrami"
   },
   {
     "category": "publication",
@@ -185,7 +194,8 @@
     "venue": "Financial Cryptography and Data Security (FC)",
     "date": 2021,
     "filename": "fraudproofs.pdf",
-    "adoptions": ["Adopted by Ethereum 2.0", "Commercialized by Celestia"]
+    "adoptions": ["Adopted by Ethereum 2.0", "Commercialized by Celestia"],
+    "code": "https://github.com/asonnino/fraudproofs-prototype"
   },
   {
     "category": "publication",
@@ -210,7 +220,15 @@
     "venue": "International Conference on Principles of Distributed Systems (OPODIS)",
     "date": 2021,
     "filename": "twins.pdf",
-    "adoptions": ["Adopted by Diem", "Adopted by Aptos", "Adopted by Chainlink"]
+    "adoptions": [
+      "Adopted by Diem",
+      "Adopted by Aptos",
+      "Adopted by Chainlink"
+    ],
+    "code": [
+      "https://github.com/asonnino/twins-simulator",
+      "https://github.com/asonnino/twins-generator"
+    ]
   },
   {
     "category": "publication",
@@ -223,7 +241,8 @@
       "Commercialized by Sui",
       "Adopted by Aleo",
       "Adopted by Fleek"
-    ]
+    ],
+    "code": "https://github.com/asonnino/narwhal/tree/bullshark"
   },
   {
     "category": "publication",
@@ -237,6 +256,10 @@
       "Adopted by Diem",
       "Commercialized by Aptos",
       "Adopted by Monad"
+    ],
+    "code": [
+      "https://github.com/asonnino/hotstuff",
+      "https://github.com/asonnino/hotstuff/tree/async"
     ]
   },
   {
@@ -246,7 +269,8 @@
     "venue": "Financial Cryptography and Data Security (FC)",
     "date": 2022,
     "filename": "carousel.pdf",
-    "adoptions": ["Adopted by Diem", "Adopted by Aptos"]
+    "adoptions": ["Adopted by Diem", "Adopted by Aptos"],
+    "code": "https://github.com/asonnino/hotstuff/tree/leader-reputation"
   },
   {
     "category": "publication",
@@ -262,6 +286,15 @@
       "Adopted by Fleek",
       "Adopted by Aleo"
     ]
+  },
+  {
+    "category": "publication",
+    "title": "Efficient Multiparty Protocols Using Generalized Parseval's Identity and the Theta Algebra",
+    "authors": "Giorgio Sonnino, Alberto Sonnino",
+    "venue": "International Conference on Mathematics and Computers in Sciences and Industry (MCSI)",
+    "date": 2022,
+    "filename": "fmpc-theta.pdf",
+    "code": "https://gist.github.com/asonnino/7d3abd570736d13bddf61fa429692983"
   },
   {
     "category": "publication",
@@ -286,7 +319,8 @@
     "venue": "Workshop on Privacy in the Electronic Societ (WPES)",
     "date": 2023,
     "filename": "zef.pdf",
-    "adoptions": ["Commercialized by Linera"]
+    "adoptions": ["Commercialized by Linera"],
+    "code": "https://github.com/asonnino/fastpay/tree/extensions"
   },
   {
     "category": "report",
@@ -300,7 +334,8 @@
     "title": "The Sui Smart Contract Platform (whitepaper v1)",
     "authors": "The Mysten Labs team",
     "date": 2022,
-    "filename": "sui-whitepaper.pdf"
+    "filename": "sui-whitepaper.pdf",
+    "code": "https://github.com/asonnino/sui"
   },
   {
     "category": "publication",
@@ -310,7 +345,8 @@
     "date": 2023,
     "filename": "parakeet.pdf",
     "awards": ["IETF Applied Networking Research Prize (ANRP)"],
-    "adoptions": ["Adapoted by WhatsApp"]
+    "adoptions": ["Adapoted by WhatsApp"],
+    "code": "https://github.com/asonnino/key-transparency"
   },
   {
     "category": "publication",
@@ -318,7 +354,8 @@
     "authors": "Zhuolun Li, Alberto Sonnino, Philipp Jovanovic",
     "venue": "Workshop on Advanced tools, programming languages, and PLatforms for Implementing and Evaluating algorithms for Distributed systems (ApPLIED)",
     "date": 2023,
-    "filename": "signatures-for-consensus.pdf"
+    "filename": "signatures-for-consensus.pdf",
+    "code": "https://github.com/asonnino/hotstuff/tree/bls-graphs"
   },
   {
     "category": "submission",
@@ -335,7 +372,11 @@
     "venue": "Financial Cryptography and Data Security (FC)",
     "date": 2024,
     "filename": "smskr.pdf",
-    "adoptions": ["Integrated into fastcrypto"]
+    "adoptions": ["Integrated into fastcrypto"],
+    "code": [
+      "https://github.com/asonnino/mskr",
+      "https://github.com/asonnino/fastcrypto"
+    ]
   },
   {
     "category": "publication",
@@ -344,7 +385,8 @@
     "venue": "Conference on Computer and Communications Security (CCS)",
     "date": 2024,
     "filename": "sui-lutris.pdf",
-    "adoptions": ["Commercialized by Sui"]
+    "adoptions": ["Commercialized by Sui"],
+    "code": "https://github.com/asonnino/sui"
   },
   {
     "category": "publication",
@@ -352,7 +394,8 @@
     "authors": "Nicolas Mohnblatt, Alberto Sonnino, Kobi Gurkan, Philipp Jovanovic",
     "venue": "Conference on Computer and Communications Security (CCS)",
     "date": 2024,
-    "filename": "arke.pdf"
+    "filename": "arke.pdf",
+    "code": "https://github.com/asonnino/arke"
   },
   {
     "category": "publication",
@@ -361,7 +404,8 @@
     "venue": "IEEE International Conference on Distributed Computing Systems (ICDCS)",
     "date": 2024,
     "filename": "hammerhead.pdf",
-    "adoptions": ["Adopted by Sui"]
+    "adoptions": ["Adopted by Sui"],
+    "code": "https://github.com/asonnino/sui"
   },
   {
     "category": "report",
@@ -379,7 +423,8 @@
     "venue": "ArXiv Preprint",
     "date": 2023,
     "filename": "mysticeti.pdf",
-    "adoptions": ["Adopted by Sui"]
+    "adoptions": ["Adopted by Sui"],
+    "code": "https://github.com/asonnino/mysticeti"
   },
   {
     "category": "publication",
@@ -395,7 +440,8 @@
     "authors": "Daniel Hugenroth, Alberto Sonnino, Sam Cutler, Alastair R. Beresford",
     "venue": "International Symposium on Privacy Enhancing Technologies (PETs)",
     "date": 2024,
-    "filename": "sloth.pdf"
+    "filename": "sloth.pdf",
+    "code": "https://github.com/asonnino/sloth"
   },
   {
     "category": "submission",
@@ -403,7 +449,8 @@
     "authors": "Quentin Kniep, Lefteris Kokoris-Kogias, Alberto Sonnino, Igor Zablotchi, Nuda Zhang",
     "venue": "ArXiv Preprint",
     "date": 2024,
-    "filename": "pilotfish.pdf"
+    "filename": "pilotfish.pdf",
+    "code": "https://github.com/asonnino/sui/tree/distributed-execution"
   },
   {
     "category": "publication",
@@ -412,7 +459,8 @@
     "venue": "International Workshop on Load Testing and Benchmarking of Software Systems (LTB)",
     "date": 2024,
     "filename": "fasctrypto-benchmarks.pdf",
-    "adoptions": ["Integrated into fastcrypto"]
+    "adoptions": ["Integrated into fastcrypto"],
+    "code": "https://github.com/asonnino/fastcrypto"
   },
   {
     "category": "publication",
