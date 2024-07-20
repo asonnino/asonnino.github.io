@@ -16,18 +16,25 @@ redirect_from:
   - "/sui.html"
 ---
 
-This page references non peer-reviewed technical reports and whitepapers I co-authored.
+This page references technical reports that are either non-peer-reviewed or accepted at venues without published proceedings.
 
 {% assign sorted_papers = site.data.papers | sort: "date" %}
 
-### Sui
+### Technical Papers
+
+{% assign others = sorted_papers | where: "category", "report" %}
+{% for report in others reversed %}
+{% include paper.html paper=report %}
+{% endfor %}
+
+### Sui Whitepaper
 
 {% assign libra = sorted_papers | where: "category", "sui" %}
 {% for report in libra reversed %}
 {% include paper.html paper=report %}
 {% endfor %}
 
-### Libra / Diem
+### Libra / Diem Whitepapers
 
 {% assign libra = sorted_papers | where: "category", "libra" %}
 {% for report in libra reversed %}
@@ -38,12 +45,5 @@ This page references non peer-reviewed technical reports and whitepapers I co-au
 
 {% assign theses = sorted_papers | where: "category", "thesis" %}
 {% for report in theses reversed %}
-{% include paper.html paper=report %}
-{% endfor %}
-
-### Others
-
-{% assign others = sorted_papers | where: "category", "report" %}
-{% for report in others reversed %}
 {% include paper.html paper=report %}
 {% endfor %}
