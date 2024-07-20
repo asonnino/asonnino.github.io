@@ -480,9 +480,9 @@
   },
   {
     "category": "report",
-    "title": "(No Proceedings) Short Paper: Resilient Consensus Sustained Collaboratively",
+    "title": "Short Paper: Resilient Consensus Sustained Collaboratively",
     "authors": "Junchao Chen, Suyash Gupta, Alberto Sonnino, Lefteris Kokoris-Kogias, Mohammad Sadoghi",
-    "venue": "Workshop on Foundations and Applications of Blockchain (FAB)",
+    "venue": "(No Proceedings) Workshop on Foundations and Applications of Blockchain (FAB)",
     "date": 2024,
     "filename": "poc-short.pdf"
   }
