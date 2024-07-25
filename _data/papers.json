@@ -239,7 +239,6 @@
     "filename": "bullshark.pdf",
     "adoptions": [
       "Commercialized by Sui",
-      "Commercialized by Aptos",
       "Adopted by Aleo",
       "Adopted by Fleek"
     ],
@@ -284,6 +283,7 @@
     "awards": ["Best paper award"],
     "adoptions": [
       "Commercialized by Sui",
+      "Commercialized by Aptos",
       "Adopted by Fleek",
       "Adopted by Aleo"
     ]
