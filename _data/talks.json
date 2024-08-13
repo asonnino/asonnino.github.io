@@ -637,5 +637,39 @@
     "hosts": ["Brian Ford"],
     "slides": "mysticeti-v7.pdf",
     "papers": ["mysticeti.pdf"]
+  },
+  {
+    "category": "misc",
+    "title": "Remora: Elastic Asynchronous Distributed Execution",
+    "event": "Mysten Labs Research Presentation",
+    "location": "Lisbon, Portugal",
+    "date": 2024,
+    "slides": "remora-v2.pdf",
+    "papers": ["remora.pdf"]
+  },
+  {
+    "category": "misc",
+    "title": "Sui as Infrastructure for Rollup Support",
+    "event": "Mysten Labs Research Presentation",
+    "location": "Lisbon, Portugal",
+    "date": 2024,
+    "slides": "sui-as-infra-v1.pdf"
+  },
+  {
+    "category": "misc",
+    "title": "The Sui Validator in 3 Years from Now",
+    "event": "Mysten Labs Research Presentation",
+    "location": "Lisbon, Portugal",
+    "date": 2024,
+    "slides": "sui-future-v1.pdf"
+  },
+  {
+    "category": "invited",
+    "title": "MEVsticeti",
+    "event": "X Space: MEVs on Sui",
+    "location": "Online",
+    "date": 2024,
+    "hosts": ["Aftermath Finance"],
+    "link": "https://x.com/i/spaces/1mnxeABjezLxX"
   }
 ]
