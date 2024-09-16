@@ -332,7 +332,7 @@
   },
   {
     "category": "sui",
-    "title": "The Sui Smart Contract Platform (whitepaper v1)",
+    "title": "The Sui Smart Contract Platform", 
     "authors": "The Mysten Labs team",
     "date": 2022,
     "filename": "sui-whitepaper.pdf",
@@ -486,5 +486,14 @@
     "venue": "(No Proceedings) Workshop on Foundations and Applications of Blockchain (FAB)",
     "date": 2024,
     "filename": "poc-short.pdf"
-  }
+  },
+  {
+    "category": "sui",
+    "title": "Walrus: An Efficient Decentralized Storage Network",
+    "authors": "The Mysten Labs team",
+    "date": 2024,
+    "filename": "walrus-whitepaper.pdf",
+    "code": "https://github.com/asonnino/walrus"
+  },
+
 ]
