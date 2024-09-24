@@ -418,11 +418,11 @@
     "linik": "https://papoc-workshop.github.io/2024/program.html"
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Mysticeti: Reaching the Limits of Latency with Uncertified DAGs",
     "authors": "Kushal Babel, Andrey Chursin, George Danezis, Anastasios Kichidis, Lefteris Kokoris-Kogias, Arun Koshy, Alberto Sonnino, Mingwei Tian",
-    "venue": "ArXiv Preprint",
-    "date": 2023,
+    "venue": "Network and Distributed System Security Symposium (NDSS)",
+    "date": 2025,
     "filename": "mysticeti.pdf",
     "adoptions": ["Adopted by Sui"],
     "code": "https://github.com/asonnino/mysticeti"
