@@ -678,7 +678,7 @@
     "event": "Mysticeti Workshop",
     "location": "Online",
     "date": 2024,
-    "hosts": ["Pragma"],
+    "hosts": ["Matthias Hallgren"],
     "slides": "mysticeti-v8.pdf",
     "papers": ["mysticeti.pdf"]
   }
