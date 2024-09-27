@@ -671,5 +671,15 @@
     "date": 2024,
     "hosts": ["Aftermath Finance"],
     "link": "https://x.com/i/spaces/1mnxeABjezLxX"
+  },
+  {
+    "category": "invited",
+    "title": "Mysticeti: The New Core of the Sui Blockchain"
+    "event": "Mysticeti Workshop",
+    "location": "Online",
+    "date": 2024,
+    "hosts": ["Pragma"],
+    "slides": "mysticeti-v8.pdf",
+    "papers": ["mysticeti.pdf"]
   }
 ]
