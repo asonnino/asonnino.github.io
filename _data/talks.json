@@ -681,5 +681,15 @@
     "hosts": ["Matthias Hallgren"],
     "slides": "mysticeti-v8.pdf",
     "papers": ["mysticeti.pdf"]
-  }
+  },
+  {
+    "category": "conference",
+    "title": "Arke: Scalable and Byzantine Fault Tolerant Privacy-Preserving Contact Discovery", 
+    "event": "Conference on Computer and Communications Security (CCS)",
+    "location": "Salt Lake City, USA",
+    "date": 2024,
+    "slides": "arke-v2.pdf",
+    "papers": ["arke.pdf"]
+  },
+ 
 ]

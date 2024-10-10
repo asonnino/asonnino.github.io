@@ -495,5 +495,36 @@
     "filename": "walrus-whitepaper.pdf",
     "code": "https://github.com/asonnino/walrus"
   },
-
+  {
+    "category": "submission",
+    "title": "Sunfish: Reading Ledgers with Sparse Nodes",
+    "authors": " ",
+    "venue": "ArXiv Preprint",
+    "date": 2024,
+    "filename": "sunfish.pdf", 
+  },
+  {
+    "category": "submission",
+    "title": "Seahorse: Efficiently Mixing Encrypted and Normal Transactions",
+    "authors": "Ben Riva, Alberto Sonnino, Lefteris Kokoris-Kogias",
+    "venue": "ArXiv Preprint",
+    "date": 2024,
+    "filename": "seahorse.pdf", 
+  },
+  {
+    "category": "submission",
+    "title": "Obelia: Scaling DAG-Based Blockchains to Hundreds of Validators" 
+    "authors": "George Danezis, Lefteris Kokoris-Kogias, Alberto Sonnino, Mingwei Tian",
+    "venue": "ArXiv Preprint",
+    "date": 2024,
+    "filename": "obelia.pdf", 
+  },
+  {
+    "category": "submission",
+    "title": "Mahi-Mahi Low-Latency Asynchronous BFT DAG-Based Consensus" 
+    "authors": "Philipp Jovanovic, Bryan Kumara, Lefteris Kokoris-Kogias, Alberto Sonnino, Pasindu Tennage, Igor Zablotchi",
+    "venue": "ArXiv Preprint",
+    "date": 2024,
+    "filename": "Mahi-Mahi.pdf", 
+  },
 ]
