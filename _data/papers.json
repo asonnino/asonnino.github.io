@@ -496,7 +496,7 @@
     "code": "https://github.com/asonnino/walrus"
   },
   {
-    "category": "submission",
+    "category": "WIP",
     "title": "Sunfish: Reading Ledgers with Sparse Nodes",
     "authors": " ",
     "venue": "ArXiv Preprint",
@@ -504,7 +504,7 @@
     "filename": "sunfish.pdf", 
   },
   {
-    "category": "submission",
+    "category": "WIP",
     "title": "Seahorse: Efficiently Mixing Encrypted and Normal Transactions",
     "authors": "Ben Riva, Alberto Sonnino, Lefteris Kokoris-Kogias",
     "venue": "ArXiv Preprint",
