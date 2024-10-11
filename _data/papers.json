@@ -513,7 +513,7 @@
   },
   {
     "category": "submission",
-    "title": "Obelia: Scaling DAG-Based Blockchains to Hundreds of Validators" 
+    "title": "Obelia: Scaling DAG-Based Blockchains to Hundreds of Validators",
     "authors": "George Danezis, Lefteris Kokoris-Kogias, Alberto Sonnino, Mingwei Tian",
     "venue": "ArXiv Preprint",
     "date": 2024,
@@ -521,7 +521,7 @@
   },
   {
     "category": "submission",
-    "title": "Mahi-Mahi Low-Latency Asynchronous BFT DAG-Based Consensus" 
+    "title": "Mahi-Mahi: Low-Latency Asynchronous BFT DAG-Based Consensus", 
     "authors": "Philipp Jovanovic, Bryan Kumara, Lefteris Kokoris-Kogias, Alberto Sonnino, Pasindu Tennage, Igor Zablotchi",
     "venue": "ArXiv Preprint",
     "date": 2024,
