@@ -498,16 +498,16 @@
   {
     "category": "submission",
     "title": "Sunfish: Reading Ledgers with Sparse Nodes",
-    "authors": " ",
+    "authors": "Giulia Scaffino, Karl Wüst, Deepak Maram, Alberto Sonnino, Lefteris Kokoris-Kogias",
     "venue": "Cryptology ePrint",
     "date": 2024,
     "filename": "sunfish.pdf"
   },
   {
-    "category": "WIP",
+    "category": "submission",
     "title": "Seahorse: Efficiently Mixing Encrypted and Normal Transactions",
     "authors": "Ben Riva, Alberto Sonnino, Lefteris Kokoris-Kogias",
-    "venue": "ArXiv Preprint",
+    "venue": "Cryptology ePrint",
     "date": 2024,
     "filename": "seahorse.pdf"
   },
