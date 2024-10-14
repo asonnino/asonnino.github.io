@@ -689,7 +689,8 @@
     "location": "Salt Lake City, USA",
     "date": 2024,
     "slides": "arke-v2.pdf",
-    "papers": ["arke.pdf"]
+    "papers": ["arke.pdf"],
+    "link": "https://www.sigsac.org/ccs/CCS2024/"
   },
  
 ]
