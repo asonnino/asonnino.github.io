@@ -496,10 +496,10 @@
     "code": "https://github.com/asonnino/walrus"
   },
   {
-    "category": "WIP",
+    "category": "submission",
     "title": "Sunfish: Reading Ledgers with Sparse Nodes",
     "authors": " ",
-    "venue": "ArXiv Preprint",
+    "venue": "Cryptology ePrint",
     "date": 2024,
     "filename": "sunfish.pdf"
   },
