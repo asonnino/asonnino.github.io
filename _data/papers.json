@@ -387,7 +387,8 @@
     "date": 2024,
     "filename": "sui-lutris.pdf",
     "adoptions": ["Commercialized by Sui"],
-    "code": "https://github.com/asonnino/sui"
+    "code": "https://github.com/asonnino/sui",
+    "awards": ["Distinguished paper award"]
   },
   {
     "category": "publication",
