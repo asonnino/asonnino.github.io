@@ -692,5 +692,12 @@
     "papers": ["arke.pdf"],
     "link": "https://www.sigsac.org/ccs/CCS2024/"
   },
- 
+   {
+    "category": "invited",
+    "title": "BFT Consensus: From Paper to Mainnet",
+    "event": "OPODIS Keynote",
+    "location": "Lucca, Italy",
+    "date": 2024,
+    "link": "https://opodis2024.imtlucca.it"
+  },
 ]
