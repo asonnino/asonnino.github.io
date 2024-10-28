@@ -700,4 +700,36 @@
     "date": 2024,
     "link": "https://opodis2024.imtlucca.it"
   },
+  {
+    "category": "invited",
+    "title": "Modern Blockchains: Broadcast and Execution",
+    "event": "UCL Information Security Guest Lecture",
+    "location": "London, United Kingdom",
+    "date": 2024,
+    "hosts": ["Philipp Jovanovic"],
+    "slides": "sui-lutris-v5.pdf",
+    "papers": [
+      "sui-lutris.pdf",
+      "consensus-dos.pdf",
+      "fastpay.pdf",
+      "sui-whitepaper.pdf"
+    ],
+  },
+  {
+    "category": "invited",
+    "title": "The Sui Smart Contract Platform",
+    "event": "ETH Zurich Network Security Course (Graduate)",
+    "location": "Zurich, Switzerland",
+    "date": 2024,
+    "hosts": ["Adrian Perrig"],
+    "slides": "sui-lutris-v5.pdf",
+    "papers": [
+      "sui-lutris.pdf",
+      "consensus-dos.pdf",
+      "fastpay.pdf",
+      "sui-whitepaper.pdf"
+    ],
+    "link": "https://netsec.ethz.ch/courses/netsec-2024"
+  },
+
 ]
