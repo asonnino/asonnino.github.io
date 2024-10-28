@@ -27,11 +27,22 @@ While at Meta I also co-authored the [FastPay](/papers/fastpay.pdf) consensus-le
 
 ##  Selected Publications
 
+{% assign mysticeti = site.data.papers | where: "filename", "mysticeti.pdf" | first %}
+{% include paper.html paper=mysticeti %}
+
 {% assign sui-lutris = site.data.papers | where: "filename", "sui-lutris.pdf" | first %}
 {% include paper.html paper=sui-lutris %}
 
-{% assign bullshark = site.data.papers | where: "filename", "bullshark.pdf" | first %}
-{% include paper.html paper=bullshark %}
-
 {% assign narwhal_and_tusk = site.data.papers | where: "filename", "narwhal-and-tusk.pdf" | first %}
 {% include paper.html paper=narwhal_and_tusk %}
+
+## Awards
+
+I was the lucky recipient of the following awards:
+
+- CCS Top Reviewer Award, [2024](https://www.sigsac.org/ccs/CCS2024/program/awards.html)
+- CCS Distinguished Paper Award, [2024](https://www.sigsac.org/ccs/CCS2024/program/awards.html)
+- CCS Top Reviewer Award, [2023](/awards/Top%20Reviewer%20Award%20-%20CCS%202023.pdf)
+- IETF Applied Networking Research Prize (ANRP), [2024](https://www.irtf.org/anrp/)
+- EuroSyS Best Paper Award, [2022](https://2022.eurosys.org/index.html@p=652.html)
+- EU Horizon 2020 DECODE Scholarship, 2017

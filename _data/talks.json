@@ -684,7 +684,7 @@
   },
   {
     "category": "conference",
-    "title": "Arke: Scalable and Byzantine Fault Tolerant Privacy-Preserving Contact Discovery", 
+    "title": "Arke: Scalable and Byzantine Fault Tolerant Privacy-Preserving Contact Discovery",
     "event": "Conference on Computer and Communications Security (CCS)",
     "location": "Salt Lake City, USA",
     "date": 2024,
@@ -692,7 +692,7 @@
     "papers": ["arke.pdf"],
     "link": "https://www.sigsac.org/ccs/CCS2024/"
   },
-   {
+  {
     "category": "invited",
     "title": "BFT Consensus: From Academic Paper to Mainnet",
     "event": "OPODIS Keynote",
@@ -713,7 +713,7 @@
       "consensus-dos.pdf",
       "fastpay.pdf",
       "sui-whitepaper.pdf"
-    ],
+    ]
   },
   {
     "category": "invited",
@@ -730,6 +730,5 @@
       "sui-whitepaper.pdf"
     ],
     "link": "https://netsec.ethz.ch/courses/netsec-2024"
-  },
-
+  }
 ]
