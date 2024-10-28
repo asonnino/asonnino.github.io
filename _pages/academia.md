@@ -16,7 +16,7 @@ This page lists the students I have advised or co-advised, along with other acad
 Since 2019, I have supervised or co-supervised 15+ master’s theses at UCL on the following topics:
 
 - Distributed privacy-preserving petition systems
-- Side-channel attacks using ML
+- Side-channel attacks using machine learning techniques
 - Performance comparison of cryptographic algorithms for BFT consensus
 - Safety attacks detections for BFT consensus
 - Privacy-preserving reputation-based systems
@@ -24,6 +24,9 @@ Since 2019, I have supervised or co-supervised 15+ master’s theses at UCL on t
 - Privacy-preserving single-sign on schemes
 - Dynamic parameters optimisation of consensus protocols
 - Horizontally scaling DAG-based BFT consensus protocols
+- Systematisation and improvements of blockchain indexers and scanners
+- Crash fault tolerant consensus protocols
+- Blockchain rollups with various threat models
 
 ## Interns Supervision
 
