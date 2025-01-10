@@ -527,5 +527,13 @@
     "venue": "ArXiv Preprint",
     "date": 2024,
     "filename": "mahi-mahi.pdf"
+  },
+  {
+    "category": "submission",
+    "title": "Stingray: Fast Concurrent Transactions Without Consensus",
+    "authors": "Srivatsan Sridhar, Alberto Sonnino, Lefteris Kokoris-Kogias",
+    "venue": "ArXiv Preprint",
+    "date": 2025,
+    "filename": "stingray.pdf"
   }
 ]
