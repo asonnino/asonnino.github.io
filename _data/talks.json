@@ -453,7 +453,7 @@
     "papers": ["cuttlefish.pdf"]
   },
   {
-    "category": "misc",
+    "category": "wip",
     "title": "Blockchains Synchronisation",
     "event": "Mysten Labs Research Offsite",
     "location": "Paris, France",
