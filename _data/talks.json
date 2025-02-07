@@ -639,7 +639,7 @@
     "papers": ["mysticeti.pdf"]
   },
   {
-    "category": "misc",
+    "category": "wip",
     "title": "Remora: Elastic Asynchronous Distributed Execution",
     "event": "Mysten Labs Research Presentation",
     "location": "Lisbon, Portugal",
@@ -656,7 +656,7 @@
     "slides": "sui-as-infra-v1.pdf"
   },
   {
-    "category": "misc",
+    "category": "wip",
     "title": "The Sui Validator in 3 Years from Now",
     "event": "Mysten Labs Research Presentation",
     "location": "Lisbon, Portugal",
