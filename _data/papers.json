@@ -446,11 +446,11 @@
     "code": "https://github.com/asonnino/sloth"
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Pilotfish: Distributed Transaction Execution for Lazy Blockchains",
     "authors": "Quentin Kniep, Lefteris Kokoris-Kogias, Alberto Sonnino, Igor Zablotchi, Nuda Zhang",
-    "venue": "ArXiv Preprint",
-    "date": 2024,
+    "venue": "Financial Cryptography and Data Security (FC)",
+    "date": 2025,
     "filename": "pilotfish.pdf",
     "code": "https://github.com/asonnino/sui/tree/distributed-execution"
   },
@@ -505,15 +505,15 @@
     "filename": "sunfish.pdf"
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Seahorse: Efficiently Mixing Encrypted and Normal Transactions",
     "authors": "Ben Riva, Alberto Sonnino, Lefteris Kokoris-Kogias",
-    "venue": "Cryptology ePrint",
-    "date": 2024,
+    "venue": "Financial Cryptography and Data Security (FC)",
+    "date": 2025,
     "filename": "seahorse.pdf"
   },
   {
-    "category": "submission",
+    "category": "report",
     "title": "Obelia: Scaling DAG-Based Blockchains to Hundreds of Validators",
     "authors": "George Danezis, Lefteris Kokoris-Kogias, Alberto Sonnino, Mingwei Tian",
     "venue": "ArXiv Preprint",
