@@ -535,5 +535,14 @@
     "venue": "ArXiv Preprint",
     "date": 2025,
     "filename": "stingray.pdf"
+  },
+  {
+    "category": "submission",
+    "title": "Byzantine Consensus in the Random Asynchronous Model",
+    "authors": "George Danezis, Jovan Komatovic, Lefteris Kokoris-Kogias, Alberto Sonnino, Igor Zablotchi",
+    "venue": "ArXiv Preprint",
+    "date": 2025,
+    "filename": "random-network.pdf"
   }
+]
 ]
