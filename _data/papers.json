@@ -167,7 +167,7 @@
     "venue": "ACM Conference on Advances in Financial Technologies (AFT)",
     "date": 2020,
     "filename": "fastpay.pdf",
-    "adoptions": ["Commercialized by Sui", "Foundation of Linera", "Foundation of POD"],
+    "adoptions": ["Commercialized by Sui", "Commercialized by Linera", "Commercialized by POD"],
     "code": "https://github.com/asonnino/fastpay"
   },
   {
