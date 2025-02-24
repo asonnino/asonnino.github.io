@@ -543,6 +543,13 @@
     "venue": "ArXiv Preprint",
     "date": 2025,
     "filename": "random-network.pdf"
+  },
+  {
+    "category": "report",
+    "title": "ConsenStress: A Framework to Torture Test Consensus Protocols",
+    "authors": "Pasindu Tennage, Shailesh Mishra, Alberto Sonnino, Lefteris Kokoris-Kogias, Philipp Jovanovic, Bryan Ford",
+    "venue": "EuroSys Poster",
+    "date": 2025,
+    "filename": "torture-framework-poster.pdf"
   }
-]
 ]
