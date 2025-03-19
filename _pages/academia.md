@@ -59,7 +59,7 @@ I Advised or co-advised the following interns.
 
 I served in the following program committees:
 
-- AFT: 2021 (sub-reviewer), [2022](https://aft22.hotcrp.com/users/pc), [2023](https://aftconf.github.io/aft23/committees.html), [2024](https://aftconf.github.io/aft24/committees.html)
+- AFT: 2021 (sub-reviewer), [2022](https://aft22.hotcrp.com/users/pc), [2023](https://aftconf.github.io/aft23/committees.html), [2024](https://aftconf.github.io/aft24/committees.html), [2025](https://aftconf.github.io/aft25/committees.html)
 - FAB: [2022](https://fab22.hotcrp.com/users/pc)
 - FC: [2023](https://fc23.ifca.ai/cfp.html), [2024](https://fc24.ifca.ai/cfp.html), [2025]()
 - CANS: [2022](https://www.cans2022.com/committees.php)
