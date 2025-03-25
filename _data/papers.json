@@ -550,6 +550,7 @@
     "authors": "Pasindu Tennage, Shailesh Mishra, Alberto Sonnino, Lefteris Kokoris-Kogias, Philipp Jovanovic, Bryan Ford",
     "venue": "EuroSys Poster",
     "date": 2025,
+    "awards": ["Best poster award"],
     "filename": "torture-framework-poster.pdf"
   }
 ]
