@@ -521,11 +521,11 @@
     "filename": "obelia.pdf"
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Mahi-Mahi: Low-Latency Asynchronous BFT DAG-Based Consensus",
     "authors": "Philipp Jovanovic, Bryan Kumara, Lefteris Kokoris-Kogias, Alberto Sonnino, Pasindu Tennage, Igor Zablotchi",
-    "venue": "ArXiv Preprint",
-    "date": 2024,
+    "venue": "IEEE International Conference on Distributed Computing Systems (ICDCS)",
+    "date": 2025,
     "filename": "mahi-mahi.pdf"
   },
   {
