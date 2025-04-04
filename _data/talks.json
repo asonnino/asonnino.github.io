@@ -731,5 +731,17 @@
       "sui-whitepaper.pdf"
     ],
     "link": "https://netsec.ethz.ch/courses/netsec-2024"
+  },
+  {
+    "category": "conference",
+    "title": "Seahorse: Efficiently Mixing Encrypted and Normal Transactions",
+    "event": "Financial Cryptography and Data Security (FC)",
+    "location": "Miakojyma, Japan",
+    "date": 2025,
+    "slides": "seahorse-v1.pdf",
+    "papers": [
+      "seahorse.pdf",
+    ],
+    "link": "https://fc25.ifca.ai/program.html"
   }
 ]
