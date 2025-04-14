@@ -490,7 +490,7 @@
   },
   {
     "category": "sui",
-    "title": "Walrus: An Efficient Decentralized Storage Network",
+    "title": "Walrus: An Efficient Decentralized Storage Network (whitepaper v1)",
     "authors": "The Mysten Labs team",
     "date": 2024,
     "filename": "walrus-whitepaper.pdf",
@@ -552,5 +552,13 @@
     "date": 2025,
     "awards": ["Best poster award"],
     "filename": "torture-framework-poster.pdf"
-  }
+  },
+  {
+    "category": "sui",
+    "title": "Walrus: An Efficient Decentralized Storage Network (whitepaper v2)",
+    "authors": "The Mysten Labs team",
+    "date": 2025,
+    "filename": "walrus-whitepaper-v2.pdf",
+    "code": "https://github.com/asonnino/walrus"
+  },
 ]

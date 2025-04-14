@@ -29,8 +29,8 @@ This page references technical reports that are either non-peer-reviewed or acce
 
 ### Sui Whitepaper
 
-{% assign libra = sorted_papers | where: "category", "sui" %}
-{% for report in libra reversed %}
+{% assign sui = sorted_papers | where: "category", "sui" %}
+{% for report in sui reversed %}
 {% include paper.html paper=report %}
 {% endfor %}
 
