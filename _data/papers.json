@@ -425,7 +425,7 @@
     "venue": "Network and Distributed System Security Symposium (NDSS)",
     "date": 2025,
     "filename": "mysticeti.pdf",
-    "adoptions": ["Adopted by Sui", "Adopted by IOTA"],
+    "adoptions": ["Adopted by Sui", "Adopted by IOTA", "Adopted by Ika"],
     "code": "https://github.com/asonnino/mysticeti"
   },
   {
