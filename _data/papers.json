@@ -561,4 +561,12 @@
     "filename": "walrus-whitepaper-v2.pdf",
     "code": "https://github.com/asonnino/walrus"
   },
+  {
+    "category": "submission",
+    "title": "Walrus: An Efficient Decentralized Storage Network",
+    "authors": "George Danezis, Giacomo Giuliari, Eleftherios Kokoris-Kogias, Markus Legner, Jean-Pierre Smith , Alberto Sonnino, Karl Wüst",
+    "date": 2025,
+    "filename": "walrus.pdf",
+    "code": "https://github.com/asonnino/walrus"
+  }
 ]
