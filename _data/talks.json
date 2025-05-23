@@ -743,5 +743,13 @@
       "seahorse.pdf",
     ],
     "link": "https://fc25.ifca.ai/program.html"
-  }
+  },
+  {
+    "category": "invited",
+    "title": "Walrus: An efficient Decentralized Storage Network",
+    "event": "Decentralized Meetup by Common Prefix",
+    "location": "Athens, Greece",
+    "date": 2025,
+    "slides": "walrus-v1.pdf",
+  },
 ]
