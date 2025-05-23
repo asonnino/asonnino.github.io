@@ -473,11 +473,11 @@
     "filename": "consensus-dos.pdf"
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Thunderbolt: Causal Concurrent Consensus and Execution",
     "authors": "Junchao Chen, Alberto Sonnino, Lefteris Kokoris-Kogias, Mohammad Sadoghi",
-    "venue": "ArXiv Preprint",
-    "date": 2024,
+    "venue": "International Conference on Extending Database Technology (EDBT)",
+    "date": 2026,
     "filename": "thunderbolt.pdf"
   },
   {
