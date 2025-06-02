@@ -416,7 +416,7 @@
     "venue": "(No Proceedings) Workshop on Principles and Practice of Consistency for Distributed Data",
     "date": 2024,
     "filename": "cuttlefish.pdf",
-    "linik": "https://papoc-workshop.github.io/2024/program.html"
+    "link": "https://papoc-workshop.github.io/2024/program.html"
   },
   {
     "category": "publication",
@@ -426,7 +426,8 @@
     "date": 2025,
     "filename": "mysticeti.pdf",
     "adoptions": ["Adopted by Sui", "Adopted by IOTA", "Adopted by Ika"],
-    "code": "https://github.com/asonnino/mysticeti"
+    "code": "https://github.com/asonnino/mysticeti",
+    "notes": "Also accepted at SBC 2025"
   },
   {
     "category": "publication",
