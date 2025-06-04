@@ -754,4 +754,14 @@
     "link": "https://lu.ma/kc2byrnn",
     "hosts": ["Dionysis Zindros", "Semeli Spanou", "Apostolos Tzinas", "Haris Karavasilis"]
   },
+  {
+    "category": "invited",
+    "title": "Mysticeti and Autobahn Open Questions",
+    "event": "Sei <> Sui X livestream",
+    "location": "Online",
+    "date": 2025,
+    "slides": "sui-sei-v1.pdf",
+    "link": "https://x.com/SeiNetwork/status/1930031248736694555",
+    "hosts": ["Vangelis Andrikopoulos"]
+  }
 ]
