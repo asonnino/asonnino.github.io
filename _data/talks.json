@@ -764,5 +764,16 @@
     "link": "https://x.com/SeiNetwork/status/1930031248736694555",
     "hosts": ["Vangelis Andrikopoulos"],
     "video": "https://x.com/i/broadcasts/1BdGYqoOWlvGX"
-  }
+  },
+  {
+    "category": "invited",
+    "title": "Mysticeti: Reaching the Limits of Latency with Uncertified DAGs",
+    "event": "ATHECRYPT 2025",
+    "location": "Athens, Greece",
+    "date": 2025,
+    "link": "https://corelab.ntua.gr/athecrypt2025/",
+    "hosts": ["Stathis Zachos", "Aris Pagourtzis", "Vassilis Zikas", "Nikos Leonardos", "Danai Balla", "George Papadoulis", "Pouran Behrouz"],
+    "slides": "mysticeti-v8.pdf",
+    "papers": ["mysticeti.pdf"]
+  },
 ]
