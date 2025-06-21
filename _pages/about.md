@@ -40,9 +40,8 @@ While at Meta I also co-authored the [FastPay](/papers/fastpay.pdf) consensus-le
 
 I was the lucky recipient of the following awards:
 
-- CCS Top Reviewer Award, [2024](https://www.sigsac.org/ccs/CCS2024/program/awards.html)
 - CCS Distinguished Paper Award, [2024](https://www.sigsac.org/ccs/CCS2024/program/awards.html)
 - IETF Applied Networking Research Prize (ANRP), [2024](https://www.irtf.org/anrp/)
-- CCS Top Reviewer Award, [2023](/awards/Top%20Reviewer%20Award%20-%20CCS%202023.pdf)
+- CCS Top Reviewer Award, [2023](/awards/Top%20Reviewer%20Award%20-%20CCS%202023.pdf), [2024](https://www.sigsac.org/ccs/CCS2024/program/awards.html)
 - EuroSyS Best Paper Award, [2022](https://2022.eurosys.org/index.html@p=652.html)
 - EU Horizon 2020 DECODE Scholarship, 2017
