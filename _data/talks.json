@@ -458,7 +458,7 @@
     "event": "Mysten Labs Research Offsite",
     "location": "Paris, France",
     "date": 2023,
-    "slides": "dag-synchronizer-v1.pdf"
+    "slides": "block-synchronizer-v1.pdf"
   },
   {
     "category": "misc",
@@ -776,4 +776,21 @@
     "slides": "mmysticeti-short-v1.pdf",
     "papers": ["mysticeti.pdf"]
   },
+  {
+    "category": "wip",
+    "title": "Remora: Latest State and Future Plans",
+    "event": "Mysten Labs Research Presentation",
+    "location": "Athens, Greece",
+    "date": 2025,
+    "slides": "remora-v4.pdf",
+    "papers": ["remora.pdf"]
+  },
+  {
+    "category": "wip",
+    "title": "Block Synchroniser: The Missing Component",
+    "event": "Mysten Labs Research Presentation",
+    "location": "Athens, Greece",
+    "date": 2025,
+    "slides": "block-synchronizer-v2.pdf",
+  }
 ]
