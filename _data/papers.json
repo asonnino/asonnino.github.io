@@ -359,11 +359,11 @@
     "code": "https://github.com/asonnino/hotstuff/tree/bls-graphs"
   },
   {
-    "category": "submission",
-    "title": "Resilient Consensus Sustained Collaboratively",
+    "category": "publication",
+    "title": "Securing Consensus from Long-Range Attacks through Collaboration",
     "authors": "Junchao Chen, Suyash Gupta, Alberto Sonnino, Lefteris Kokoris-Kogias, Mohammad Sadoghi",
-    "venue": "ArXiv Preprint",
-    "date": 2023,
+    "venue": "International Symposium on Reliable Distributed Systems (SRDS)",
+    "date": 2025,
     "filename": "poc.pdf"
   },
   {
