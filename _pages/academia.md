@@ -66,7 +66,7 @@ I served in the following program committees:
 - FC: [2023](https://fc23.ifca.ai/cfp.html), [2024](https://fc24.ifca.ai/cfp.html), [2025](https://fc25.ifca.ai/cfp.html), [2026]()
 - CANS: [2022](https://www.cans2022.com/committees.php)
 - CATS: [2023](https://catsworkshop.dev/organization/)
-- CCS: 2021 (sub-reviewer), 2022 (sub-reviewer), [2023](https://www.sigsac.org/ccs/CCS2023/orgs-program.html), [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html), [2025](https://www.sigsac.org/ccs/CCS2025/program-committee)
+- CCS: 2021 (sub-reviewer), 2022 (sub-reviewer), [2023](https://www.sigsac.org/ccs/CCS2023/orgs-program.html), [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html), [2025](https://www.sigsac.org/ccs/CCS2025/program-committee), [2026]()
 - ICDCS: 2019 (sub-reviewer), 2020 (sub-reviewer), [2021](https://icdcs2021.us/technical-committee.html), [2022](https://icdcs2022.icdcs.org/tc), [2025](https://icdcs2025.icdcs.org)
 - ICDE: [2025](https://ieee-icde.org/2025/program-committees/), [2026](https://icde2026.github.io/pc-chairs.html)
 - Middleware: [2025](https://middleware-conf.github.io/2025/program-committee)
