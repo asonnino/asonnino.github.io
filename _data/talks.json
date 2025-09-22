@@ -792,5 +792,13 @@
     "location": "Athens, Greece",
     "date": 2025,
     "slides": "block-synchronizer-v2.pdf",
+  },
+  {
+    "category": "invited",
+    "title": "Hybrid Backup Service with Decentralised Sovereignty",
+    "event": "UCSB Capstone Projects Presentation",
+    "location": "Online",
+    "date": 2025,
+    "slides": "ucsb-capstone-2025-v1.pdf",
   }
 ]
