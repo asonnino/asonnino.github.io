@@ -43,5 +43,6 @@ I was the lucky recipient of the following awards:
 - CCS Distinguished Paper Award, [2024](https://www.sigsac.org/ccs/CCS2024/program/awards.html)
 - IETF Applied Networking Research Prize (ANRP), [2024](https://www.irtf.org/anrp/)
 - CCS Top Reviewer Award, [2023](/awards/Top%20Reviewer%20Award%20-%20CCS%202023.pdf), [2024](https://www.sigsac.org/ccs/CCS2024/program/awards.html), [2025](https://www.sigsac.org/ccs/CCS2025/awards/)
+- Usenix Security Notable Reviewer Award, [2025](https://www.usenix.org/sites/default/files/sec25_message_addendum.pdf)
 - EuroSyS Best Paper Award, [2022](https://2022.eurosys.org/index.html@p=652.html)
 - EU Horizon 2020 DECODE Scholarship, 2017
