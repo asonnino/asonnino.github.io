@@ -800,5 +800,14 @@
     "location": "Online",
     "date": 2025,
     "slides": "ucsb-capstone-2025-v1.pdf",
+  },
+  {
+    "category": "invited",
+    "title": "Modern Blockchains through the Lens of Network Security",
+    "event": "ETH Zurich Network Security Course (Graduate)",
+    "location": "Zurich, Switzerland",
+    "date": 2025,
+    "hosts": ["Adrian Perrig"],
+    "slides": "blockchains-netsec-v1.pdf",
   }
 ]
