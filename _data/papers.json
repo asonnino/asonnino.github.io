@@ -443,6 +443,7 @@
     "authors": "Daniel Hugenroth, Alberto Sonnino, Sam Cutler, Alastair R. Beresford",
     "venue": "International Symposium on Privacy Enhancing Technologies (PETs)",
     "date": 2024,
+    "adoptions": ["Adopted by The Guardian"],
     "filename": "sloth.pdf",
     "code": "https://github.com/asonnino/sloth"
   },
