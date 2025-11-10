@@ -568,6 +568,7 @@
     "authors": "George Danezis, Giacomo Giuliari, Eleftherios Kokoris-Kogias, Markus Legner, Jean-Pierre Smith , Alberto Sonnino, Karl Wüst",
     "venue": "ArXiv Preprint",
     "date": 2025,
+    "adoptions": ["Commercialized by Walrus"],
     "filename": "walrus.pdf",
     "code": "https://github.com/asonnino/walrus"
   }
