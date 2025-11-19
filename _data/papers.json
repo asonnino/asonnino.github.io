@@ -504,6 +504,7 @@
     "authors": "Giulia Scaffino, Karl Wüst, Deepak Maram, Alberto Sonnino, Lefteris Kokoris-Kogias",
     "venue": "Cryptology ePrint",
     "date": 2024,
+    "adoptions": ["Adopted by POD"],
     "filename": "sunfish.pdf"
   },
   {
@@ -572,5 +573,24 @@
     "adoptions": ["Commercialized by Walrus"],
     "filename": "walrus.pdf",
     "code": "https://github.com/asonnino/walrus"
+  },
+  {
+    "category": "submission",
+    "title": "Beluga: Block Synchronization for BFT Consensus Protocols",
+    "authors": "Tasos Kichidis, Lefteris Kokoris-Kogias, Arun Koshy, Ilya Sergey, Alberto Sonnino, Mingwei Tian, Jianting Zhang",
+    "venue": "ArXiv Preprint",
+    "date": 2025,
+    "adoptions": ["Adopted by Sui"],
+    "filename": "beluga.pdf",
+    "code": "https://github.com/asonnino/beluga/tree/paper"
+  },
+  {
+    "category": "submission",
+    "title": "BlueBottle: Fast and Robust Blockchains through Subsystem Specialization",
+    "authors": "Preston Vander Vos, Alberto Sonnino, Giorgos Tsimos, Philipp Jovanovic, Lefteris Kokoris-Kogias",
+    "venue": "ArXiv Preprint",
+    "date": 2025,
+    "filename": "bluebottle.pdf",
+    "code": "https://github.com/asonnino/mysticeti/tree/odontoceti"
   }
 ]
