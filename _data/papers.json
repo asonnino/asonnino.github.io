@@ -592,5 +592,13 @@
     "date": 2025,
     "filename": "bluebottle.pdf",
     "code": "https://github.com/asonnino/mysticeti/tree/odontoceti"
+  },
+  {
+    "category": "submission",
+    "title": "Sedna: Sharding transactions in multiple concurrent proposer blockchains",
+    "authors": "Alejandro Ranchal-Pedrosa, Benjamin Marsh, Lefteris Kokoris-Kogias, Alberto Sonnino",
+    "venue": "ArXiv Preprint",
+    "date": 2025,
+    "filename": "sedna.pdf",
   }
 ]
