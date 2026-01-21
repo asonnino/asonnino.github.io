@@ -76,7 +76,7 @@ I served in the following program committees:
 - S&P: 2022 (sub-reviewer)
 - TLDR: [2025](https://www.thelatestindefi.org/conference)
 - USENIX Security: [2025](https://www.usenix.org/conference/usenixsecurity25/call-for-papers), [2026]()
-- VLDB: [2026](https://vldb.org/2026/officers.html)
+- VLDB: [2026](https://vldb.org/2026/officers.html), [2027]()
 - WEB3SEC: [2022](https://www.acsac.org/2022/workshops/web3sec/WEB3SEC2022-CFP.pdf)
 
 
