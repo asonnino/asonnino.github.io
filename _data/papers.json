@@ -600,5 +600,17 @@
     "venue": "ArXiv Preprint",
     "date": 2025,
     "filename": "sedna.pdf",
+  },
+  {
+    "category": "submission",
+    "title": "Tidehunter: Large-Value Storage With Minimal Data Relocation",
+    "authors": "Andrey Chursin, Lefteris Kokoris-Kogias, Alex Orlov, Alberto Sonnino, Igor Zablotchi",
+    "venue": "ArXiv Preprint",
+    "date": 2026,
+    "filename": "tidehunter.pdf",
+    "code": [
+      "https://github.com/asonnino/tidehunter",
+      "https://github.com/mystenlabs/tidehunter"
+    ]
   }
 ]
