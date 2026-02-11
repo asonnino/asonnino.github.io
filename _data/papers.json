@@ -480,7 +480,8 @@
     "authors": "Junchao Chen, Alberto Sonnino, Lefteris Kokoris-Kogias, Mohammad Sadoghi",
     "venue": "International Conference on Extending Database Technology (EDBT)",
     "date": 2026,
-    "filename": "thunderbolt.pdf"
+    "filename": "thunderbolt.pdf",
+    "awards": ["Best paper runner up"]
   },
   {
     "category": "report",
