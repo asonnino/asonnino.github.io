@@ -809,5 +809,14 @@
     "date": 2025,
     "hosts": ["Adrian Perrig"],
     "slides": "blockchains-netsec-v1.pdf",
+  },
+  {
+    "category": "invited",
+    "title": "Modern Blockchains through the Lens of System Security",
+    "event": "UCL Information Security Guest Lecture",
+    "location": "London, United Kingdom",
+    "date": 2026,
+    "hosts": ["Arthur Gervais"],
+    "slides": "blockchains-ucl-v1.pdf",
   }
 ]
