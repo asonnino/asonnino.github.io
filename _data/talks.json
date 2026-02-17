@@ -453,7 +453,7 @@
     "papers": ["cuttlefish.pdf"]
   },
   {
-    "category": "wip",
+    "category": "misc",
     "title": "Blockchains Synchronisation",
     "event": "Mysten Labs Research Offsite",
     "location": "Paris, France",
@@ -777,7 +777,7 @@
     "papers": ["mysticeti.pdf"]
   },
   {
-    "category": "wip",
+    "category": "misc",
     "title": "Remora: Latest State and Future Plans",
     "event": "Mysten Labs Research Presentation",
     "location": "Athens, Greece",
@@ -786,7 +786,7 @@
     "papers": ["remora.pdf"]
   },
   {
-    "category": "wip",
+    "category": "misc",
     "title": "Block Synchroniser: The Missing Component",
     "event": "Mysten Labs Research Presentation",
     "location": "Athens, Greece",
@@ -818,5 +818,13 @@
     "date": 2026,
     "hosts": ["Arthur Gervais"],
     "slides": "blockchains-ucl-v1.pdf",
+  },
+  {
+    "category": "wip",
+    "title": "Jackfish: Low-Latency Block Streaming for DeFi",
+    "event": "Mysten Labs Engineering Offsite",
+    "location": "New Orleans, USA",
+    "date": 2026,
+    "slides": "jackfish-v1.pdf",
   }
 ]
