@@ -71,7 +71,7 @@ I served in the following program committees:
 - ICDCS: 2019 (sub-reviewer), 2020 (sub-reviewer), [2021](https://icdcs2021.us/technical-committee.html), [2022](https://icdcs2022.icdcs.org/tc), [2025](https://icdcs2025.icdcs.org)
 - ICDE: [2025](https://ieee-icde.org/2025/program-committees/), [2026](https://icde2026.github.io/pc-chairs.html)
 - Middleware: [2025](https://middleware-conf.github.io/2025/program-committee)
-- PODC: 2022 (sub-reviewer), 2024 (sub-reviewer)
+- PODC: 2022 (sub-reviewer), 2024 (sub-reviewer), 2025 (sub-reviewer), 2026 (sub-reviewer)
 - SBC: 2024 (sub-reviewer)
 - S&P: 2022 (sub-reviewer)
 - TLDR: [2025](https://www.thelatestindefi.org/conference)
