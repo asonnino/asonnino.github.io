@@ -826,5 +826,16 @@
     "location": "New Orleans, USA",
     "date": 2026,
     "slides": "jackfish-v1.pdf",
+  },
+  {
+    "category": "invited",
+    "title": "BFT Consensus: From Academic Paper to Mainnet",
+    "event": "School on the Practice and Theory of Distributed Computing (SPTDC)",
+    "location": "Crete, Greece",
+    "date": 2026,
+    "slides": "bft-mainnet-v2.pdf",
+    "link": "https://sptdc2026.ics.forth.gr"
+
   }
+
 ]
