@@ -566,11 +566,11 @@
     "code": "https://github.com/asonnino/walrus"
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Walrus: An Efficient Decentralized Storage Network",
     "authors": "George Danezis, Giacomo Giuliari, Eleftherios Kokoris-Kogias, Markus Legner, Jean-Pierre Smith , Alberto Sonnino, Karl Wüst",
-    "venue": "ArXiv Preprint",
-    "date": 2025,
+    "venue": "Conference on Computer and Communications Security (CCS)"
+    "date": 2026,
     "adoptions": ["Commercialized by Walrus"],
     "filename": "walrus.pdf",
     "code": "https://github.com/asonnino/walrus"
