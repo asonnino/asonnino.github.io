@@ -406,7 +406,7 @@
     "venue": "IEEE International Conference on Distributed Computing Systems (ICDCS)",
     "date": 2024,
     "filename": "hammerhead.pdf",
-    "adoptions": ["Adopted by Sui"],
+    "adoptions": ["Adopted by Sui", "Adopted by IOTA"],
     "code": "https://github.com/asonnino/sui"
   },
   {
