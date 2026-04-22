@@ -37,7 +37,7 @@ I Advised or co-advised the following interns.
 | Intern            | Institution                         | Internship Year | Outcome                              |
 | ----------------- | ----------------------------------- | --------------- | ------------------------------------ |
 | Dakai Kang        | UC Davis                            | 2025            | TBA                                  |
-| Jianting Zhang    | Purdue University                   | 2025            | TBA                                  |
+| Jianting Zhang    | Purdue University                   | 2025            | [Beluga](/papers/beluga.pdf)                                  |
 | Giulia Scaffino   | TU Wien                             | 2024            | [Sunfish](/papers/sunfish.pdf)       |
 | Grace Cimaszewski | Princeton University                | 2024            | Network simulator for Sui            |
 | Scofield Liu      | Imperial College London             | 2024            | TBA                                  |
@@ -73,9 +73,9 @@ I served in the following program committees:
 - Middleware: [2025](https://middleware-conf.github.io/2025/program-committee)
 - PODC: 2022 (sub-reviewer), 2024 (sub-reviewer), 2025 (sub-reviewer), 2026 (sub-reviewer)
 - SBC: 2024 (sub-reviewer)
-- S&P: 2022 (sub-reviewer)
+- S&P: 2022 (sub-reviewer), [2027]()
 - TLDR: [2025](https://www.thelatestindefi.org/conference)
-- USENIX Security: [2025](https://www.usenix.org/conference/usenixsecurity25/call-for-papers), [2026]()
+- USENIX Security: [2025](https://www.usenix.org/conference/usenixsecurity25/call-for-papers), [2026](https://www.usenix.org/conference/usenixsecurity26/call-for-papers)
 - VLDB: [2026](https://vldb.org/2026/officers.html), [2027]()
 - WEB3SEC: [2022](https://www.acsac.org/2022/workshops/web3sec/WEB3SEC2022-CFP.pdf)
 
