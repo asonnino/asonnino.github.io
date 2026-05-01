@@ -167,7 +167,11 @@
     "venue": "ACM Conference on Advances in Financial Technologies (AFT)",
     "date": 2020,
     "filename": "fastpay.pdf",
-    "adoptions": ["Commercialized by Sui", "Commercialized by Linera", "Commercialized by POD"],
+    "adoptions": [
+      "Commercialized by Sui",
+      "Commercialized by Linera",
+      "Commercialized by POD"
+    ],
     "code": "https://github.com/asonnino/fastpay"
   },
   {
@@ -569,7 +573,7 @@
     "category": "publication",
     "title": "Walrus: An Efficient Decentralized Storage Network",
     "authors": "George Danezis, Giacomo Giuliari, Eleftherios Kokoris-Kogias, Markus Legner, Jean-Pierre Smith , Alberto Sonnino, Karl Wüst",
-    "venue": "Conference on Computer and Communications Security (CCS)"
+    "venue": "Conference on Computer and Communications Security (CCS)",
     "date": 2026,
     "adoptions": ["Commercialized by Walrus"],
     "filename": "walrus.pdf",
@@ -600,7 +604,7 @@
     "authors": "Alejandro Ranchal-Pedrosa, Benjamin Marsh, Lefteris Kokoris-Kogias, Alberto Sonnino",
     "venue": "ArXiv Preprint",
     "date": 2025,
-    "filename": "sedna.pdf",
+    "filename": "sedna.pdf"
   },
   {
     "category": "submission",
@@ -613,5 +617,14 @@
       "https://github.com/asonnino/tidehunter",
       "https://github.com/mystenlabs/tidehunter"
     ]
+  },
+  {
+    "category": "submission",
+    "title": "Finding Nemo-Nemo: CFT DAG-based Consensus in the WAN",
+    "authors": "Rithwik Kerur, Pasindu Tennage, Philipp Jovanovic, Dahlia Malkhi, Alberto Sonnino, Igor Zablotchi",
+    "venue": "ArXiv Preprint",
+    "date": 2026,
+    "filename": "nemo-nemo.pdf",
+    "code": ["https://github.com/asonnino/mysticeti/tree/cft"]
   }
 ]
