@@ -835,7 +835,14 @@
     "date": 2026,
     "slides": "bft-mainnet-v2.pdf",
     "link": "https://sptdc2026.ics.forth.gr"
-
+  },
+  {
+    "category": "invited",
+    "title": "DAG-Based Consensus: Theory, Mysticeti, and the Parts Nobody Writes About",
+    "event": "Theory & Practice of Blockchain Consensus",
+    "location": "New York, USA",
+    "date": 2026,
+    "slides": "dag-consensus-v1.pdf",
+    "link": "https://timroughgarden.org/summerschool26.html#speakers"
   }
-
 ]
