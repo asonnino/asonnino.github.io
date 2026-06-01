@@ -626,5 +626,14 @@
     "date": 2026,
     "filename": "nemo-nemo.pdf",
     "code": ["https://github.com/asonnino/mysticeti/tree/cft"]
+  },
+  {
+    "category": "publication",
+    "title": "Signet: Scalable Network-Driven Proof of Notification for Blockchain Systems",
+    "authors": "Elham Ehsani Moghadam, Marc Wyss, Jonghoon Kwon, Marc Frei, Yih-Chun Hu, Adrian Perrig, Alberto Sonnino",
+    "venue": "IEEE International Conference on Distributed Computing Systems (ICDCS)",
+    "date": 2026,
+    "filename": "signet.pdf",
+    "code": ["https://github.com/asonnino/signet-contract"]
   }
 ]
