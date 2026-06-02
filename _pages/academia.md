@@ -38,6 +38,7 @@ I Advised or co-advised the following interns.
 
 | Intern            | Institution                         | Internship Year | Outcome                              |
 | ----------------- | ----------------------------------- | --------------- | ------------------------------------ |
+| Fatima Elsheimy   | Yale University                     | 2026            | TBA |
 | Dakai Kang        | UC Davis                            | 2025            | TBA                                  |
 | Jianting Zhang    | Purdue University                   | 2025            | [Beluga](/papers/beluga.pdf)         |
 | Giulia Scaffino   | TU Wien                             | 2024            | [Sunfish](/papers/sunfish.pdf)       |
