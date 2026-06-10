@@ -64,7 +64,7 @@ I Advised or co-advised the following interns.
 
 I served in the following program committees:
 
-- AFT: 2021 (sub-reviewer), [2022](https://aft22.hotcrp.com/users/pc), [2023](https://aftconf.github.io/aft23/committees.html), [2024](https://aftconf.github.io/aft24/committees.html), [2025](https://aftconf.github.io/aft25/committees.html)
+- AFT: 2021 (sub-reviewer), [2022](https://aft22.hotcrp.com/users/pc), [2023](https://aftconf.github.io/aft23/committees.html), [2024](https://aftconf.github.io/aft24/committees.html), [2025](https://aftconf.github.io/aft25/committees.html), [2026](https://aft.ifca.ai/aft26/committees.html)
 - FAB: [2022](https://fab22.hotcrp.com/users/pc)
 - FC: [2023](https://fc23.ifca.ai/cfp.html), [2024](https://fc24.ifca.ai/cfp.html), [2025](https://fc25.ifca.ai/cfp.html), [2026](https://fc26.ifca.ai/cfp.html)
 - CANS: [2022](https://www.cans2022.com/committees.php)
@@ -72,14 +72,14 @@ I served in the following program committees:
 - CCS: 2021 (sub-reviewer), 2022 (sub-reviewer), [2023](https://www.sigsac.org/ccs/CCS2023/orgs-program.html), [2024](https://www.sigsac.org/ccs/CCS2024/organization/prog-committee.html), [2025](https://www.sigsac.org/ccs/CCS2025/program-committee), [2026](https://www.sigsac.org/ccs/CCS2026/organization/prog-committee.html)
 - DISS: [2019](https://www.ndss-symposium.org/ndss2019/cfp-diss-2019)
 - ICDCS: 2019 (sub-reviewer), 2020 (sub-reviewer), [2021](https://icdcs2021.us/technical-committee.html), [2022](https://icdcs2022.icdcs.org/tc), [2025](https://icdcs2025.icdcs.org)
-- ICDE: [2025](https://ieee-icde.org/2025/program-committees/), [2026](https://icde2026.github.io/pc-chairs.html)
+- ICDE: [2025](https://ieee-icde.org/2025/program-committees/), [2026](https://icde2026.github.io/pc-chairs.html), [2027]()
 - Middleware: [2025](https://middleware-conf.github.io/2025/program-committee)
 - PODC: 2022 (sub-reviewer), 2024 (sub-reviewer), 2025 (sub-reviewer), 2026 (sub-reviewer)
 - SBC: 2024 (sub-reviewer)
 - S&P: 2022 (sub-reviewer), [2027]()
 - TLDR: [2025](https://www.thelatestindefi.org/conference)
-- USENIX Security: [2025](https://www.usenix.org/conference/usenixsecurity25/call-for-papers), [2026](https://www.usenix.org/conference/usenixsecurity26/call-for-papers)
-- VLDB: [2026](https://vldb.org/2026/officers.html), [2027]()
+- USENIX Security: [2025](https://www.usenix.org/conference/usenixsecurity25/call-for-papers), [2026](https://www.usenix.org/conference/usenixsecurity26/call-for-papers), [2027]()
+- VLDB: [2026](https://vldb.org/2026/officers.html), [2027](https://vldb.org/2027/officers.html)
 - WEB3SEC: [2022](https://www.acsac.org/2022/workshops/web3sec/WEB3SEC2022-CFP.pdf)
 
 <!-- ### Teaching Assistant
