@@ -76,6 +76,7 @@ I served in the following program committees:
 - Middleware: [2025](https://middleware-conf.github.io/2025/program-committee)
 - PODC: 2022 (sub-reviewer), 2024 (sub-reviewer), 2025 (sub-reviewer), 2026 (sub-reviewer)
 - SBC: 2024 (sub-reviewer)
+- SIGMOD: [2027]()
 - S&P: 2022 (sub-reviewer), [2027]()
 - TLDR: [2025](https://www.thelatestindefi.org/conference)
 - USENIX Security: [2025](https://www.usenix.org/conference/usenixsecurity25/call-for-papers), [2026](https://www.usenix.org/conference/usenixsecurity26/call-for-papers), [2027]()
