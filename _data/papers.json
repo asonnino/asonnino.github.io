@@ -607,10 +607,10 @@
     "filename": "sedna.pdf"
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Tidehunter: Large-Value Storage With Minimal Data Relocation",
     "authors": "Andrey Chursin, Lefteris Kokoris-Kogias, Alex Orlov, Alberto Sonnino, Igor Zablotchi",
-    "venue": "ArXiv Preprint",
+    "venue": "International Conference on Very Large Data Bases (VLDB)",
     "date": 2026,
     "filename": "tidehunter.pdf",
     "code": [
