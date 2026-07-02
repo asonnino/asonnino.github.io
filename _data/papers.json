@@ -635,5 +635,15 @@
     "date": 2026,
     "filename": "signet.pdf",
     "code": ["https://github.com/asonnino/signet-contract"]
+  },
+  {
+    "category": "publication",
+    "title": "Remora: Scale-out Deterministic Execution for Smart Contracts",
+    "authors": "Zhengqing Liu, Alberto Sonnino, Igor Zablotchi, Eleftherios Kokoris Kogias, Marios Kogias",
+    "venue": "International Conference on Very Large Data Bases (VLDB)",
+    "date": 2026,
+    "filename": "remora.pdf",
+    "code": ["https://github.com/asonnino/remora"]
   }
+
 ]
