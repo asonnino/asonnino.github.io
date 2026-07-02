@@ -127,6 +127,7 @@ include:
   - _pages
   - files
 exclude:
+  - "*.key"
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
