@@ -644,6 +644,14 @@
     "date": 2026,
     "filename": "remora.pdf",
     "code": ["https://github.com/asonnino/remora"]
+  },
+  {
+    "category": "submission",
+    "title": "Orcaella: Hybrid Fault Tolerance with Client-Selectable Finality Latency",
+    "authors": "Lefteris Kokoris-Kogias, Alberto Sonnino",
+    "venue": "ArXiv Preprint",
+    "date": 2026,
+    "filename": "orcaella.pdf",
+    "code": ["https://github.com/asonnino/mysticeti"]
   }
-
 ]
