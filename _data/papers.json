@@ -653,5 +653,13 @@
     "date": 2026,
     "filename": "orcaella.pdf",
     "code": ["https://github.com/asonnino/mysticeti"]
+  },
+  {
+    "category": "submission",
+    "title": "Not All Reads Are Conflicts: A Write-Only Analysis of the Sui Blockchain",
+    "authors": "Haygen Tsoi, Alberto Sonnino, Philipp Jovanovic",
+    "venue": "ArXiv Preprint",
+    "date": 2026,
+    "filename": "sui-analysis.pdf",
   }
 ]
