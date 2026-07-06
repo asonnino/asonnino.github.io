@@ -38,12 +38,12 @@ I Advised or co-advised the following interns.
 
 | Intern            | Institution                         | Internship Year | Outcome                              |
 | ----------------- | ----------------------------------- | --------------- | ------------------------------------ |
-| Fatima Elsheimy   | Yale University                     | 2026            | TBA |
+| Fatima Elsheimy   | Yale University                     | 2026            | TBA                                  |
 | Dakai Kang        | UC Davis                            | 2025            | TBA                                  |
 | Jianting Zhang    | Purdue University                   | 2025            | [Beluga](/papers/beluga.pdf)         |
 | Giulia Scaffino   | TU Wien                             | 2024            | [Sunfish](/papers/sunfish.pdf)       |
 | Grace Cimaszewski | Princeton University                | 2024            | Network simulator for Sui            |
-| Scofield Liu      | Imperial College London             | 2024            | [Remora](/papers/remora.pdf)                                  |
+| Scofield Liu      | Imperial College London             | 2024            | [Remora](/papers/remora.pdf)         |
 | Srivatsan Sridhar | Stanford University                 | 2024            | [Stingray](/papers/stingray.pdf)     |
 | Kushal Babel      | Cornell Tech                        | 2023            | [Mysticeti](/papers/mysticeti.pdf)   |
 | Quentin Kiep      | ETH Zurich                          | 2023            | [Pilotfish](/papers/pilotfish.pdf)   |

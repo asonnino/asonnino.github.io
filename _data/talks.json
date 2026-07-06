@@ -250,7 +250,7 @@
     "location": "Online",
     "date": 2021,
     "slides": "narwhal-tusk-v1.pdf",
-    "papers": ["narwal-and-tusk.pdf"],
+    "papers": ["narwhal-and-tusk.pdf"],
     "link": "https://research.protocol.ai/sites/consensusday21/programme/",
     "video": "2021-consensus-day21-narwhal-and-tusk-v1.mp4",
     "recording": "https://www.youtube.com/watch?v=K5ph4-7vvHk"
@@ -372,7 +372,7 @@
     "location": "Online",
     "date": 2022,
     "slides": "theta-mpc-v1.pdf",
-    "papers": ["theta-mpc.pdf", "fmpc.pdf"],
+    "papers": ["fmpc-theta.pdf", "fmpc.pdf"],
     "link": "https://ieeexplore.ieee.org/xpl/conhome/10066055/proceeding"
   },
   {
@@ -395,7 +395,7 @@
     "location": "Las Vegas, USA",
     "date": 2022,
     "slides": "bullshark-v2.pdf",
-    "papers": ["narwal-and-tusk.pdf", "bullshark.pdf"]
+    "papers": ["narwhal-and-tusk.pdf", "bullshark.pdf"]
   },
   {
     "category": "misc",
@@ -740,7 +740,7 @@
     "date": 2025,
     "slides": "seahorse-v1.pdf",
     "papers": [
-      "seahorse.pdf",
+      "seahorse.pdf"
     ],
     "link": "https://fc25.ifca.ai/program.html"
   },
@@ -773,7 +773,7 @@
     "date": 2025,
     "link": "https://corelab.ntua.gr/athecrypt2025/",
     "hosts": ["Stathis Zachos", "Aris Pagourtzis", "Vassilis Zikas", "Nikos Leonardos", "Danai Balla", "George Papadoulis", "Pouran Behrouz"],
-    "slides": "mmysticeti-short-v1.pdf",
+    "slides": "mysticeti-short-v1.pdf",
     "papers": ["mysticeti.pdf"]
   },
   {
