@@ -655,10 +655,10 @@
     "code": ["https://github.com/asonnino/mysticeti"]
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Not All Reads Are Conflicts: A Write-Only Analysis of the Sui Blockchain",
     "authors": "Haygen Tsoi, Alberto Sonnino, Philipp Jovanovic",
-    "venue": "ArXiv Preprint",
+    "venue": "ACM Conference on Advances in Financial Technologies (AFT)",
     "date": 2026,
     "filename": "sui-analysis.pdf"
   }
