@@ -844,5 +844,13 @@
     "date": 2026,
     "slides": "dag-consensus-v1.pdf",
     "link": "https://timroughgarden.org/summerschool26.html#speakers"
+  },
+  {
+    "category": "invited",
+    "title": "DAG-Based Consensus: Introduction and Practical Aspects",
+    "event": "a16z Summer Intern Program",
+    "location": "New York, USA",
+    "date": 2026,
+    "slides": "dag-consensus-v2.pdf",
   }
 ]
