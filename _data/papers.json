@@ -509,7 +509,7 @@
     "authors": "Giulia Scaffino, Karl Wüst, Deepak Maram, Alberto Sonnino, Lefteris Kokoris-Kogias",
     "venue": "Cryptology ePrint",
     "date": 2024,
-    "adoptions": ["Adopted by POD", "Adopted by Sui"],
+    "adoptions": ["Adopted by POD", "Adopted by Sui", "Adopted by Walrus"],
     "filename": "sunfish.pdf"
   },
   {
@@ -652,6 +652,7 @@
     "venue": "ArXiv Preprint",
     "date": 2026,
     "filename": "orcaella.pdf",
+    "adoptions": ["Adopted by Sui"],
     "code": ["https://github.com/asonnino/mysticeti"]
   },
   {
