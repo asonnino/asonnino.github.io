@@ -791,7 +791,7 @@
     "event": "Mysten Labs Research Presentation",
     "location": "Athens, Greece",
     "date": 2025,
-    "slides": "block-synchronizer-v2.pdf",
+    "slides": "block-synchronizer-v2.pdf"
   },
   {
     "category": "invited",
@@ -799,7 +799,7 @@
     "event": "UCSB Capstone Projects Presentation",
     "location": "Online",
     "date": 2025,
-    "slides": "ucsb-capstone-2025-v1.pdf",
+    "slides": "ucsb-capstone-2025-v1.pdf"
   },
   {
     "category": "invited",
@@ -808,7 +808,7 @@
     "location": "Zurich, Switzerland",
     "date": 2025,
     "hosts": ["Adrian Perrig"],
-    "slides": "blockchains-netsec-v1.pdf",
+    "slides": "blockchains-netsec-v1.pdf"
   },
   {
     "category": "invited",
@@ -826,7 +826,7 @@
     "location": "London, United Kingdom",
     "date": 2026,
     "hosts": ["Arthur Gervais"],
-    "slides": "blockchains-ucl-v1.pdf",
+    "slides": "blockchains-ucl-v1.pdf"
   },
   {
     "category": "wip",
@@ -834,7 +834,7 @@
     "event": "Mysten Labs Engineering Offsite",
     "location": "New Orleans, USA",
     "date": 2026,
-    "slides": "jackfish-v1.pdf",
+    "slides": "jackfish-v1.pdf"
   },
   {
     "category": "invited",
@@ -843,6 +843,7 @@
     "location": "Crete, Greece",
     "date": 2026,
     "slides": "bft-mainnet-v2.pdf",
+    "hosts": ["Petr Kuznetsov"],
     "link": "https://sptdc2026.ics.forth.gr"
   },
   {
@@ -861,6 +862,6 @@
     "event": "a16z Summer Intern Program",
     "location": "New York, USA",
     "date": 2026,
-    "slides": "dag-consensus-v2.pdf",
+    "slides": "dag-consensus-v2.pdf"
   }
 ]
