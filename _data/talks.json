@@ -812,6 +812,15 @@
   },
   {
     "category": "invited",
+    "title": "The Story Behind Mysticeti, Sui’s Consensus Algorithm",
+    "event": "Common Prefix: Honest Majority Podcast",
+    "location": "Athens, Greece",
+    "date": 2025,
+    "hosts": ["Dionysis Zindros"],
+    "video": "https://www.youtube.com/watch?v=nuVSIOw5CA8"
+  },
+  {
+    "category": "invited",
     "title": "Modern Blockchains through the Lens of System Security",
     "event": "UCL Information Security Guest Lecture",
     "location": "London, United Kingdom",
