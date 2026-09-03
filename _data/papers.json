@@ -662,5 +662,14 @@
     "venue": "ACM Conference on Advances in Financial Technologies (AFT)",
     "date": 2026,
     "filename": "sui-analysis.pdf"
+  },
+  {
+    "category": "submission",
+    "title": "Barnacle: Adaptive Multi-Leader Scheduling for DAG-Based Consensus",
+    "authors": "Zeno de Angeli, Alexandru Ianov Vitanov, Philipp Jovanovic, Lefteris Kokoris-Kogias, Alberto Sonnino, Pasindu Tennage, Igor Zablotchi",
+    "venue": "ArXiv Preprint",
+    "date": 2026,
+    "filename": "barnacle.pdf",
+    "code": ["https://github.com/zenodea/hammerheadv2/tree/feat/leader-scheduler"]
   }
 ]
