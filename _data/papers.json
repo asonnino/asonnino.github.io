@@ -671,5 +671,14 @@
     "date": 2026,
     "filename": "barnacle.pdf",
     "code": ["https://github.com/zenodea/hammerheadv2/tree/feat/leader-scheduler"]
+  },
+  {
+    "category": "submission",
+    "title": "Guppy: Efficient Light Clients via Recursive Zero-Knowledge Proofs",
+    "authors": "George Danezis, Deepak Maram, Arnab Roy, Alberto Sonnino, Karl Wüst",
+    "venue": "ArXiv Preprint",
+    "date": 2026,
+    "filename": "guppy.pdf",
+    "code": ["https://github.com/asonnino/guppy"]
   }
 ]
