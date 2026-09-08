@@ -619,10 +619,10 @@
     ]
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Finding Nemo-Nemo: CFT DAG-based Consensus in the WAN",
     "authors": "Rithwik Kerur, Pasindu Tennage, Philipp Jovanovic, Dahlia Malkhi, Alberto Sonnino, Igor Zablotchi",
-    "venue": "ArXiv Preprint",
+    "venue": "ACM/IFIP Middleware",
     "date": 2026,
     "filename": "nemo-nemo.pdf",
     "code": ["https://github.com/asonnino/mysticeti/tree/cft"]
