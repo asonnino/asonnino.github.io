@@ -680,5 +680,14 @@
     "date": 2026,
     "filename": "guppy.pdf",
     "code": ["https://github.com/asonnino/guppy"]
+  },
+  {
+    "category": "submission",
+    "title": "Hydrozoan: Latency-Adaptive DAG Consensus under Mixed Byzantine and Crash Faults",
+    "authors": "Qianyu Yu, Lefteris Kokoris-Kogias, Alberto Sonnino",
+    "venue": "ArXiv Preprint",
+    "date": 2026,
+    "filename": "hydrozoan.pdf",
+    "code": ["https://github.com/asonnino/mysticeti"]
   }
 ]
