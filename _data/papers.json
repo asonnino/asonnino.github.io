@@ -693,7 +693,7 @@
   {
     "category": "submission",
     "title": "Steelhead: Interleaving Partially Synchronous and Asynchronous Commit Rules on a Shared DAG",
-    "authors": "George Danezis, Zeno De Angeli, Philipp Jovanovic, Lefteris Kokoris-Kogias, Markus Legner, Alberto Sonnino",
+    "authors": "Zeno De Angeli, Philipp Jovanovic, Lefteris Kokoris-Kogias, Markus Legner, Alberto Sonnino",
     "venue": "ArXiv Preprint",
     "date": 2026,
     "filename": "steelhead.pdf",
