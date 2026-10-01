@@ -863,5 +863,13 @@
     "location": "New York, USA",
     "date": 2026,
     "slides": "dag-consensus-v2.pdf"
+  },
+  {
+    "category": "invited",
+    "title": "Blockchain Wallets in the Age of AI",
+    "event": "UCSB Capstone Projects Presentation",
+    "location": "Online",
+    "date": 2026,
+    "slides": "ucsb-capstone-2026-v1.pdf"
   }
 ]
