@@ -666,7 +666,7 @@
     "filename": "sui-analysis.pdf"
   },
   {
-    "category": "submission",
+    "category": "publication",
     "title": "Barnacle: Adaptive Multi-Leader Scheduling for DAG-Based Consensus",
     "authors": "George Danezis, Zeno de Angeli, Alexandru Ianov Vitanov, Philipp Jovanovic, Lefteris Kokoris-Kogias, Alberto Sonnino, Pasindu Tennage, Igor Zablotchi",
     "venue": "Financial Cryptography and Data Security (FC)",
