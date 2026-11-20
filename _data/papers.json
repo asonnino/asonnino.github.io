@@ -670,7 +670,7 @@
     "title": "Barnacle: Adaptive Multi-Leader Scheduling for DAG-Based Consensus",
     "authors": "George Danezis, Zeno de Angeli, Alexandru Ianov Vitanov, Philipp Jovanovic, Lefteris Kokoris-Kogias, Alberto Sonnino, Pasindu Tennage, Igor Zablotchi",
     "venue": "Financial Cryptography and Data Security (FC)",
-    "date": 2026,
+    "date": 2027,
     "filename": "barnacle.pdf",
     "code": ["https://github.com/zenodea/hammerheadv2/tree/feat/leader-scheduler"]
   },
