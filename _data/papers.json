@@ -613,6 +613,7 @@
     "venue": "International Conference on Very Large Data Bases (VLDB)",
     "date": 2026,
     "filename": "tidehunter.pdf",
+    "adoptions": ["Adopted by Sui"],
     "code": [
       "https://github.com/asonnino/tidehunter",
       "https://github.com/mystenlabs/tidehunter"
@@ -667,7 +668,7 @@
     "category": "submission",
     "title": "Barnacle: Adaptive Multi-Leader Scheduling for DAG-Based Consensus",
     "authors": "George Danezis, Zeno de Angeli, Alexandru Ianov Vitanov, Philipp Jovanovic, Lefteris Kokoris-Kogias, Alberto Sonnino, Pasindu Tennage, Igor Zablotchi",
-    "venue": "ArXiv Preprint",
+    "venue": "Financial Cryptography and Data Security (FC)",
     "date": 2026,
     "filename": "barnacle.pdf",
     "code": ["https://github.com/zenodea/hammerheadv2/tree/feat/leader-scheduler"]
@@ -698,5 +699,14 @@
     "date": 2026,
     "filename": "steelhead.pdf",
     "code": ["https://github.com/asonnino/mysticeti/tree/steelhead"]
+  },
+  {
+    "category": "submission",
+    "title": "Dugong: Composing Uncertified DAG Consensus",
+    "authors": "George Danezis, Lefteris Kokoris-Kogias, Alberto Sonnino",
+    "venue": "ArXiv Preprint",
+    "date": 2026,
+    "filename": "dugong.pdf",
+    "code": ["https://github.com/asonnino/mysticeti"]
   }
 ]
