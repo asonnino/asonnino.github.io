@@ -709,5 +709,14 @@
     "date": 2026,
     "filename": "dugong.pdf",
     "code": ["https://github.com/asonnino/mysticeti"]
+  },
+  {
+    "category": "submission",
+    "title": "Omakase: Execution Congestion Control through Conflict-Graph Integration in Multi-Proposer Blockchain",
+    "authors": "Dakai Kang, Ray Neiheiser, Alberto Sonnino, Lefteris Kokoris-Kogias, Mohammad Sadoghi",
+    "venue": "ArXiv Preprint",
+    "date": 2026,
+    "filename": "omakase.pdf",
+    "code": ["https://github.com/asonnino/congestion_control"]
   }
 ]
